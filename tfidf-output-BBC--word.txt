@@ -1,0 +1,6675 @@
+Article: 001b.txt
+timewarner,aol,warner,time warner,profit,profits
+
+Article: 001e.txt
+tree,gallery,sculptor,wentworth,tate,plates
+
+Article: 001p.txt
+maternity,pay,mothers,months,hewitt,women
+
+Article: 001s.txt
+claxton,medal,hurdles,european,training,confident
+
+Article: 001t.txt
+ink,elections,kyrgyz,use,voter,ultraviolet
+
+Article: 002b.txt
+deficit,dollar,greenspan,federal reserve,reserve,currency
+
+Article: 002e.txt
+andersen,christian andersen,christian,hans,hans christian andersen,jarre
+
+Article: 002p.txt
+information,mails,freedom,beith,information commissioner,disclosure
+
+Article: 002s.txt
+sullivan,santry,ireland,april,st etienne,fionnualla britton
+
+Article: 002t.txt
+cafes,net,chinese,crackdown,cafe,china
+
+Article: 003b.txt
+rosneft,yugansk,yukos,menatep,loan,sale
+
+Article: 003e.txt
+musical,spend,thoday,wonderful life,wonderful,van doren stern
+
+Article: 003p.txt
+women,sexism,hewitt,eoc,jobs,men
+
+Article: 003s.txt
+greene,francis,gatlin,race,francis obikwelu,title
+
+Article: 003t.txt
+microsoft,spyware,program,software,anti,trojan
+
+Article: 004b.txt
+ba,fuel,surcharge,revenue,aviation,results
+
+Article: 004e.txt
+judy,richard,book,madeley,books,year
+
+Article: 004p.txt
+blackpool,manchester,party,conference,bournemouth,labour
+
+Article: 004s.txt
+iaaf,doping,diack,athletes,fight,forces
+
+Article: 004t.txt
+negroponte,laptops,laptop,child,digital,education
+
+Article: 005b.txt
+pernod,domecq,allied,allied domecq,seagram,whisky
+
+Article: 005e.txt
+poppins,mary poppins,mary,travers,cameron mackintosh,sir cameron mackintosh
+
+Article: 005p.txt
+balls,brown,election,stability,digby,chancellor
+
+Article: 005s.txt
+dibaba,bekele,ceplak,cragg,kluft,indoor
+
+Article: 005t.txt
+creative,art,technology,graphics,bt,river
+
+Article: 006b.txt
+recession,japan,economy,growth,technical,recovery
+
+Article: 006e.txt
+best,history boys,theatre,theatregoers,boys,circle
+
+Article: 006p.txt
+dome,deal,millennium,attempt,sell,millennium exhibition
+
+Article: 006s.txt
+isinbayeva,greene,maurice,scott,birmingham,olympic
+
+Article: 006t.txt
+farmers,saldarriaga,huaral,peru,cepes,irrigation
+
+Article: 007b.txt
+jobs,labor department,labor,growth,moderate,rate
+
+Article: 007e.txt
+novel,whitbread,book,levy,prize,judges
+
+Article: 007p.txt
+blair,fox,labour,lord ashcroft,tory,mr
+
+Article: 007s.txt
+carroll,dublin,race,sullivan,american alan webb,commits
+
+Article: 007t.txt
+critical,fixes,flaws,microsoft,programs,security
+
+Article: 008b.txt
+india,g7,chidambaram,nations,exchange,meeting
+
+Article: 008e.txt
+history boys,theatre,best,ferris,award,festen
+
+Article: 008p.txt
+women,sexist,mps,breasts,researchers,betty
+
+Article: 008s.txt
+hansen,moore,sprinting,wound,jumper,commonwealth
+
+Article: 008t.txt
+virus,mail,zafi,infected,christmas,poses
+
+Article: 009b.txt
+food,tonnes,assistance,ethiopia,ethiopians,agriculture
+
+Article: 009e.txt
+jesus,bishop,book,da vinci code,vinci,fun
+
+Article: 009p.txt
+campbell,tbwa,mail,silly,newsnight,fuss
+
+Article: 009s.txt
+secs,indoor,gardener,meeting,leipzig,finished
+
+Article: 009t.txt
+gadget,gadgets,mobile,apple,laptop,list
+
+Article: 010b.txt
+tobacco,smoking,altria,court,reynolds,case
+
+Article: 010e.txt
+uganda,women,vagina,ugandan,monologues,play
+
+Article: 010p.txt
+super,scottish,casinos,casino,westminster,gambling
+
+Article: 010s.txt
+collins,olympic,francis,world,medallists,indoor
+
+Article: 010t.txt
+google,autolink,feature,users,isbn,amazon
+
+Article: 011b.txt
+jeeves,ask jeeves,ask,doubleclick,advertising,online
+
+Article: 011e.txt
+postcards,sale,bradburn,art,artists,rca
+
+Article: 011p.txt
+mrs,howard,fox,visits,husband,campaign
+
+Article: 011s.txt
+radcliffe,team,paula,gb,cross,world cross country
+
+Article: 011t.txt
+programmes,tv,episodes,envisional,download,net
+
+Article: 012b.txt
+subsidies,fuel,prices,indonesia,yudhoyono,government
+
+Article: 012e.txt
+neeson,lyric,theatre,ballymena,liam neeson,belfast
+
+Article: 012p.txt
+conlon,apology,maguire,families,guildford,blair
+
+Article: 012s.txt
+idowu,edwards,triple,jump,madrid,gold
+
+Article: 012t.txt
+linux,ibm,software,workplace,programs,source
+
+Article: 013b.txt
+mitsubishi,peugeot,mitsubishi motors,motors,japanese,sales
+
+Article: 013e.txt
+whitbread,novel,levy,winner,prize,judges
+
+Article: 013p.txt
+howard,tory,tory leader,mr,leader,impression
+
+Article: 013s.txt
+chepkemei,ak,kenya,world cross country,marathon,masai
+
+Article: 013t.txt
+cinemas,digital,prints,network,projectors,films
+
+Article: 014b.txt
+telegraph,journalists,newspapers,printing,colour,tabloid
+
+Article: 014e.txt
+children,award,winners,book,riddell,fergus
+
+Article: 014p.txt
+sunset,clause,arrest,bill,blair,terror
+
+Article: 014s.txt
+mcilroy,lester,madrid,race,career,erfurt
+
+Article: 014t.txt
+bill,software,european,european parliament,law,eu
+
+Article: 015b.txt
+airlines,passengers,compensation,flights,flight,overbooking
+
+Article: 015e.txt
+mutants,marie leroi,marie,fiction,guardian,book
+
+Article: 015p.txt
+gibraltar,gibraltarians,spain,sovereignty,rock,future
+
+Article: 015s.txt
+uk athletics,athletics,moorcroft,adidas,kit,uk
+
+Article: 015t.txt
+xboxes,xbox,cables,damage,minor,microsoft
+
+Article: 016b.txt
+china,breakneck,credit,rapid,expansion,growth
+
+Article: 016e.txt
+hailey,airplane,flight,novel,starring,book
+
+Article: 016p.txt
+social,shortages,science,committee,council,social research council
+
+Article: 016s.txt
+tests,athens,sprinters,thanou,greek,athletes
+
+Article: 016t.txt
+bloggers,hopkins,blog,mojtaba,arash,blogger
+
+Article: 017b.txt
+euros,bondi,parmalat,company,former,unwinding
+
+Article: 017e.txt
+booker,booker prize,prize,mcewan,spark,gabriel garcia marquez
+
+Article: 017p.txt
+g8,deal,brown,nations,disaster,tsunami
+
+Article: 017s.txt
+kenteris,greek,ioannidis,thanou,athletics,olympics
+
+Article: 017t.txt
+phones,mobile,goodman,handsets,phone,forum
+
+Article: 018b.txt
+rupee,india,rating,currency,notch,upgrade
+
+Article: 018e.txt
+versace,roy lichtenstein,collection,contemporary,sale,roy
+
+Article: 018p.txt
+auschwitz,prince,commemoration,holocaust,straw,queen
+
+Article: 018s.txt
+indoor,world,record,lagat,ran,cragg
+
+Article: 018t.txt
+chip,cell,sony,playstation,processor,graphics
+
+Article: 019b.txt
+maran,investment,mobile,telecoms,foreign,market
+
+Article: 019e.txt
+slater,glass menagerie,broadway,glass,roberts,revival
+
+Article: 019p.txt
+drinking,drunk,mcconnell,binge,remark,macdonell
+
+Article: 019s.txt
+chepkemei,race,london,marathon,camp,finished
+
+Article: 019t.txt
+light,silicon,laser,paniccia,intel,dr
+
+Article: 020b.txt
+call,centres,diemont,customers,centre,dimension data
+
+Article: 020e.txt
+portrait,reynolds,painting,tate,joshua,omai
+
+Article: 020p.txt
+tomlinson,diploma,qca,gcses,government,qualifications
+
+Article: 020s.txt
+idowu,edwards,triple,jump,madrid,gold
+
+Article: 020t.txt
+browser,firefox,microsoft,explorer,ie,security
+
+Article: 021b.txt
+rank,hard rock,demerger,casinos,rock,unit
+
+Article: 021e.txt
+ballet,markova,alicia,diaghilev,dame,dame alicia markova
+
+Article: 021p.txt
+chancellor,brown,mr,stability,optimistic,blair
+
+Article: 021s.txt
+chepkemei,ak,ban,marathon,kiplagat,masai
+
+Article: 021t.txt
+danton,pc pro,supplier,providers,pro,fed
+
+Article: 022b.txt
+unemployment,job,creation,measures,german,adjusted
+
+Article: 022e.txt
+ballet,dancers,rad,children,age,trew
+
+Article: 022p.txt
+tax,asylum,processing,blair,labour,howard
+
+Article: 022s.txt
+holmes,crowd,front,victory,olympic,round
+
+Article: 022t.txt
+sun,grid,computing,hour,sun grid,capacity
+
+Article: 023b.txt
+french,quarterly,economy,growth,output,trend
+
+Article: 023e.txt
+viotti,la,fenice,la fenice,opera,massenet
+
+Article: 023p.txt
+university,students,private,waste,disgraceful,courses
+
+Article: 023s.txt
+greek,kenteris,tribunal,tests,thanou,iaaf
+
+Article: 023t.txt
+lasers,tata,laser,sridharan,bridges,permission
+
+Article: 024b.txt
+deficit,imports,record,gap,trade,exports
+
+Article: 024e.txt
+paraguay,fiction,blume,prize,books,honourary
+
+Article: 024p.txt
+brown,education,africa,trip,g8,primary
+
+Article: 024s.txt
+chepkemei,edinburgh,cross,susan,radcliffe,briton
+
+Article: 024t.txt
+bioware,people,game,auditions,hundreds,chosen
+
+Article: 025b.txt
+yukos,russian,yugansk,court,ruling,jurisdiction
+
+Article: 025e.txt
+harry potter,harry,potter,book,rowling,sixth
+
+Article: 025p.txt
+immigration,independent,migration,migration watch,body,overcrowded
+
+Article: 025s.txt
+el guerrouj,guerrouj,el,cross,world cross country,champion
+
+Article: 025t.txt
+sony,console,gaming,ds,psp,units
+
+Article: 026b.txt
+gm,recall,braking,vehicles,nhtsa,safety
+
+Article: 026e.txt
+gallery,alva,saumarez smith,visitor,figures,numbers
+
+Article: 026p.txt
+africa,commission,blair,report,geldof,bob geldof
+
+Article: 026s.txt
+collins,balco,ban,drugs,doping,cas
+
+Article: 026t.txt
+mail,junk,spamhaus,spam,hogan,technique
+
+Article: 027b.txt
+mittal,steel,mittal steel,isg,jobs,workforce
+
+Article: 027e.txt
+cowell,idol,aspiring,paul cavanagh,lit,aloud
+
+Article: 027p.txt
+lord butler,butler,lord,cabinet,government,blair
+
+Article: 027s.txt
+holmes,eaa,athletics,federations,dame,athlete
+
+Article: 027t.txt
+site,dec,mail,tsunami,sanders,fake
+
+Article: 028b.txt
+crude,iea,energy,barrels,demand,oil
+
+Article: 028e.txt
+cuaron,warner,potter,alfonso,harry potter,harry
+
+Article: 028p.txt
+oaten,lib,inquiry,nanny,visa,blunkett
+
+Article: 028s.txt
+campbell,relay,olympic,athens,gold,medals
+
+Article: 028t.txt
+piero,bbc,bbc broadcast,analysis,sport,sports
+
+Article: 029b.txt
+venezuelan,agroflora,land,vestey group,vestey,farms
+
+Article: 029e.txt
+film,baghdad,rasheed,pax,saddam,festival
+
+Article: 029p.txt
+savings,embassies,consulates,posts,foreign,staff
+
+Article: 029s.txt
+isinbayeva,birmingham,vault,pole,athens,records
+
+Article: 029t.txt
+patents,source,open,patent,software,microsoft
+
+Article: 030b.txt
+oecd,oil,growth,momentum,shock,price
+
+Article: 030e.txt
+best,film,critics,cfca,sideways,associations
+
+Article: 030p.txt
+truants,school,pupils,education,truancy,attendance
+
+Article: 030s.txt
+athens,athletics,sonia,irish,turnbull,mckiernan
+
+Article: 030t.txt
+directive,inventions,patent,draft,eu,computer
+
+Article: 031b.txt
+ireland,irish,growth,shares,economic,equities
+
+Article: 031e.txt
+den,grantham,overnight,figures,demise,tuned
+
+Article: 031p.txt
+murder,review,mandatory,sentence,home office,provocation
+
+Article: 031s.txt
+walker,athletics,training,musselburgh racecourse,new year sprint,nandrolone
+
+Article: 031t.txt
+security,passwords,ash,method,rsa,online
+
+Article: 032b.txt
+ufj,sumitomo,mitsubishi,mtfg,bank,japan
+
+Article: 032e.txt
+redford,sundance,festival,film,park city,dissent
+
+Article: 032p.txt
+hunt,ban,demonstration,hunting,pro,alliance
+
+Article: 032s.txt
+bekele,indoor,record,gebrselassie,world,mile
+
+Article: 032t.txt
+mobile,hsdpa,networks,speeds,siemens,data
+
+Article: 033b.txt
+poverty,poor,leibovich,government,distribution,pesos
+
+Article: 033e.txt
+harry,potter,dvd,harry potter,hermione,hogwarts
+
+Article: 033p.txt
+baa,runway,heathrow,airport,stansted,gatwick
+
+Article: 033s.txt
+greek,iaaf,kenteris,thanou,federation,tests
+
+Article: 033t.txt
+wsis,divide,digital,access,fund,report
+
+Article: 034b.txt
+rover,saic,plant,chinese,cuts,ft
+
+Article: 034e.txt
+award,film,leigh,staunton,itv london,statuette
+
+Article: 034p.txt
+burglars,householders,law,burglar,howard,change
+
+Article: 034s.txt
+paula,athens,kelly,race,thing,marathon
+
+Article: 034t.txt
+alerts,security,service,alerting,niscc,safe
+
+Article: 035b.txt
+wpp,profits,advertising,unit,rival,sell
+
+Article: 035e.txt
+oscar,miyagishima,starring,kinsey,eligible,motion picture
+
+Article: 035p.txt
+turkey,eu,blair,talks,turkish,france
+
+Article: 035s.txt
+usada,collins,cas,balco,doping,drugs
+
+Article: 035t.txt
+sigarchi,iranian,iran,bloggers,sentence,online
+
+Article: 036b.txt
+sec,firms,rules,cbi,foreign,reporting
+
+Article: 036e.txt
+hanks,polar express,polar,santa,santa claus,square
+
+Article: 036p.txt
+politics,fear,liberal,populist,hope,nation
+
+Article: 036s.txt
+conte,jones,doping,rogge,sydney olympics,ioc
+
+Article: 036t.txt
+microsoft,spyware,program,software,anti,trojan
+
+Article: 037b.txt
+tsutsumi,japan,railways,japanese,seibu railways,seibu
+
+Article: 037e.txt
+carib,cannibalism,cannibals,dominica,caribs,pirates
+
+Article: 037p.txt
+miliband,david miliband,david,policy,prior,blair
+
+Article: 037s.txt
+sprinters,johnson,british,britain,pride,athletes
+
+Article: 037t.txt
+printer,cartridges,hp,ink,inkjet,cartridge
+
+Article: 038b.txt
+euros,mobile,debt,deutsche telekom,telekom,deutsche
+
+Article: 038e.txt
+film,best,spotless mind,eternal sunshine,sunshine,eternal
+
+Article: 038p.txt
+borders,rail,borders rail,line,scottish borders,waverley line
+
+Article: 038s.txt
+paula,race,athens,marathon,optimism,lot
+
+Article: 038t.txt
+mpaa,bittorrent,operators,file,lokitorrent,peer
+
+Article: 039b.txt
+wine,yantai,changyu,illva,litres,chinese
+
+Article: 039e.txt
+producers,evans,aviator,mann,film,nominated
+
+Article: 039p.txt
+arts,assembly,welsh,wales,government,hitler
+
+Article: 039s.txt
+medals,pound,stripped,balco laboratories,guilty,drugs
+
+Article: 039t.txt
+fbi,mails,attachment,virus,recipients,bureau
+
+Article: 040b.txt
+umbro,replica,sales,chelsea,sponsorship,firm
+
+Article: 040e.txt
+nominations,awards,starring,sideways,primer,kinsey
+
+Article: 040p.txt
+lords,law,detainees,terrorism,law lords,foreign
+
+Article: 040s.txt
+radcliffe,richards,marathon,yelling,paula,new york
+
+Article: 040t.txt
+music,creative,ipod,apple,digital,mcguire
+
+Article: 041b.txt
+deficit,greenspan,budget,congress,boom,baby
+
+Article: 041e.txt
+academy,gibson,screenings,davey,christ,icon
+
+Article: 041p.txt
+blunkett,mr,immigration,home,labour,sheffield
+
+Article: 041s.txt
+gatlin,hayes,usatf,jesse owens awards,great,awards
+
+Article: 041t.txt
+mobile,fi,office,trains,pocket,train
+
+Article: 042b.txt
+coal,uk coal,mines,spindler,gigajoule,uk
+
+Article: 042e.txt
+carmen,festival,film,bear,berlin,im
+
+Article: 042p.txt
+pension,pensions,workers,unions,strike,public
+
+Article: 042s.txt
+radcliffe,chepkemei,race,kenyan,miles,briton
+
+Article: 042t.txt
+skype,users,hotspots,calls,broadreach,net
+
+Article: 043b.txt
+women,saudi,ministry,prince,prince saud,arab news
+
+Article: 043e.txt
+davis,ossie,funeral,activist,lee,burt reynolds
+
+Article: 043p.txt
+lishman,older,vote,age concern,election,parties
+
+Article: 043s.txt
+collins,athletics,uk athletics,appointment,competitors,commenee
+
+Article: 043t.txt
+macrovision,ripguard,dvd,dvds,copy,ripping
+
+Article: 044b.txt
+economy,recession,japan,growth,gdp,spending
+
+Article: 044e.txt
+davis,dee,miami beach,miami,beach,actor
+
+Article: 044p.txt
+duchy,prince,income,cornwall,lancaster,prince charles
+
+Article: 044s.txt
+white,conte,balco,product,steroids,victor
+
+Article: 044t.txt
+apple,eff,journalists,sources,reporters,information
+
+Article: 045b.txt
+refinery,production,petrol,prices,crude,texas
+
+Article: 045e.txt
+jugnot,chorus,le figaro,depardieu,le,euros
+
+Article: 045p.txt
+mcletchie,tods murray,conflict,murray,msp,glenn
+
+Article: 045s.txt
+balco,thg,trial,modafinil,usada,case
+
+Article: 045t.txt
+gadgets,essentials,gadget,list,stuff,vaughan
+
+Article: 046b.txt
+meti,industrial,month,unemployment,demand,output
+
+Article: 046e.txt
+japan,yen,japanese,films,howl,box office
+
+Article: 046p.txt
+blunkett,quinn,mrs quinn,secretary,mrs,mr
+
+Article: 046s.txt
+athletes,radcliffe,innuendoes,drugs,cheats,suspicions
+
+Article: 046t.txt
+interactive,bafta,awards,best,film,interactive bafta
+
+Article: 047b.txt
+ryanair,airline,boeing,planes,plane,order
+
+Article: 047e.txt
+rwanda,hotel,cheadle,berlin,hotel rwanda,rusesabagina
+
+Article: 047p.txt
+students,fees,universities,scotland,scottish,wallace
+
+Article: 047s.txt
+kenteris,crash,greek,hospital,olympics,athens
+
+Article: 047t.txt
+mp3,players,survey,americans,aged,american life project
+
+Article: 048b.txt
+parmalat,creditors,italian,parmalat finanziaria,debts,bondi
+
+Article: 048e.txt
+afi,brando,film,newscasters,institute,marlon brando
+
+Article: 048p.txt
+animal,animals,bill,committee,draft,welfare
+
+Article: 048s.txt
+tribunal,kenteris,charges,thanou,iaaf,accident
+
+Article: 048t.txt
+directive,parliament,patent,council of ministers,ec,council
+
+Article: 049b.txt
+mini,bmw,rover,factory,cars,car
+
+Article: 049e.txt
+de niro,film,oscar,box office,top,and seek
+
+Article: 049p.txt
+id,cards,clarke,blunkett,legislation,home secretary
+
+Article: 049s.txt
+conte,jones,marion,marion jones,doping,detector
+
+Article: 049t.txt
+domain,dyer,idn,fake,browsers,scammers
+
+Article: 050b.txt
+nestle,perrier,swiss,sales,water,mineral
+
+Article: 050e.txt
+willis,lawsuit,revolution studios,revolution,squibs,sun willis
+
+Article: 050p.txt
+smoking,ban,smoke,health,mcconnell,smokers
+
+Article: 050s.txt
+iaaf,thanou,kenteris,greek,tests,athens
+
+Article: 050t.txt
+mobile,texas,phones,chip,chips,mobiles
+
+Article: 051b.txt
+fiat,ferrari,maserati,alfa romeo,alfa,romeo
+
+Article: 051e.txt
+swank,foxx,actors,oscars,dollar baby,million dollar baby
+
+Article: 051p.txt
+parents,resident,children,courts,child,delays
+
+Article: 051s.txt
+sprinters,thanou,kenteris,iaaf,greek,olympics
+
+Article: 051t.txt
+wong,blind,colour,software,student,maps
+
+Article: 052b.txt
+italy,berlusconi,spending,bankruptcy,development,economy
+
+Article: 052e.txt
+lee,spike lee,spike,movie,films,students
+
+Article: 052p.txt
+nuclear,etzioni,states,failing,terrorists,fissile
+
+Article: 052s.txt
+holmes,glasgow,events,track,norwich union international,soil
+
+Article: 052t.txt
+xbox,microsoft,gdc,ea,nintendo,playstation
+
+Article: 053b.txt
+reuters,revenues,year,savings,dollar,fleet street
+
+Article: 053e.txt
+box office,box,office,boogeyman,super bowl,bowl
+
+Article: 053p.txt
+makarov,hunger,kgb,mi6,intelligence,strike
+
+Article: 053s.txt
+gebrselassie,marathon,race,haile,champion,london
+
+Article: 053t.txt
+search,microsoft,engine,queries,answer,msn
+
+Article: 054b.txt
+india,plant,hyundai,car,cars,growing
+
+Article: 054e.txt
+mumbai,blasts,film,postponed,kashyap,bombings
+
+Article: 054p.txt
+buyers,threshold,stamp,duty,cable,lib dems
+
+Article: 054s.txt
+thanou,tzekos,kenteris,iaaf,committee,ioanidis
+
+Article: 054t.txt
+phone,mobile,responds,golf,swing,movements
+
+Article: 055b.txt
+rand,budget,manuel,african,tax,spending
+
+Article: 055e.txt
+titchmarsh,robots,arthur,robot,extras,disc
+
+Article: 055p.txt
+kelly,teachers,disruptive,pupils,opus dei,spiritual
+
+Article: 055s.txt
+holmes,hamstring,training,madrid,compete,night
+
+Article: 055t.txt
+email systems,email,spam,systems,mail,mails
+
+Article: 056b.txt
+bmw,sales,asia,carmaker,models,rolls
+
+Article: 056e.txt
+brando,godfather,actor,role,schulberg,moustache
+
+Article: 056p.txt
+ethnic,citizenship,minority,strategy,black,people
+
+Article: 056s.txt
+sotherton,kluft,jump,hurdles,championships,long
+
+Article: 056t.txt
+espn,ea,sports,games,sega,fans
+
+Article: 057b.txt
+lomax,mpc,ons,ms,data,surveys
+
+Article: 057e.txt
+van gogh,gogh,fortuyn,dutch,van,murder
+
+Article: 057p.txt
+children,prof,green,young people,oxford,young
+
+Article: 057s.txt
+holmes,olympic,kelly,double,cram,champion
+
+Article: 057t.txt
+awards,award,bafta,game,best,gamecube
+
+Article: 058b.txt
+electrolux,newton aycliffe,newton,swedish,plants,manufacturing
+
+Article: 058e.txt
+festival,films,european,berlin,cinema,runs
+
+Article: 058p.txt
+eu,embargo,china,arms,ban,straw
+
+Article: 058s.txt
+title,jump,mark,qualifying,gardener,championships
+
+Article: 058t.txt
+speeds,ingram,broadband,bt,customers,allowances
+
+Article: 059b.txt
+worldcom,accounting,ebbers,cooper,fraud,lawyers
+
+Article: 059e.txt
+sky,coverage,academy awards,academy,oscar,broadcaster
+
+Article: 059p.txt
+donations,parties,cap,political,commission,elections
+
+Article: 059s.txt
+medal,sarah,hurdles,phillips,janine,bests
+
+Article: 059t.txt
+tv,services,mobiles,mobile,broadcasting,music
+
+Article: 060b.txt
+marsh,spitzer,guilty,bewlay,insurance,investigation
+
+Article: 060e.txt
+carrey,snicket,lemony snicket,unfortunate events,chart,ocean
+
+Article: 060p.txt
+cardinal,peace,war,iraq,congregation,holy land
+
+Article: 060s.txt
+mcilroy,indoor,women,gillick,men,cairns
+
+Article: 060t.txt
+critical,fixes,flaws,microsoft,programs,security
+
+Article: 061b.txt
+jobless,total,work,employment,sector,people
+
+Article: 061e.txt
+nair,becky sharp,vanity,witherspoon,thackeray,vanity fair
+
+Article: 061p.txt
+ballot,papers,darlington,royal mail,darlington council,royal
+
+Article: 061s.txt
+qualifying,sotherton,aaas,title,european,mark
+
+Article: 061t.txt
+rfid,tags,consumers,survey,vetham,capgemini
+
+Article: 062b.txt
+wembley,multiplex,profit,profits,firm,contractor
+
+Article: 062e.txt
+best,awards,screenplay,sideways,oscars,moreno
+
+Article: 062p.txt
+muslims,muslim,labour,tamimi,mab,vote
+
+Article: 062s.txt
+cragg,brizzel,carroll,annadale,mark carroll,championships
+
+Article: 062t.txt
+jeeves,bloglines,ask jeeves,ask,lanzone,blogs
+
+Article: 063b.txt
+sales,retail,stores,car,january,clothing
+
+Article: 063e.txt
+cesar,french,film,tautou,compete,kings and queen
+
+Article: 063p.txt
+day,christmas,new year,days,usdaw,whitefield
+
+Article: 063s.txt
+ceplak,holmes,erfurt,gardener,norwich union,worlds
+
+Article: 063t.txt
+negroponte,laptops,laptop,child,digital,education
+
+Article: 064b.txt
+lufthansa,lamberty,flights,bush,airport,frankfurt
+
+Article: 064e.txt
+cates,eastwood,best,night,director,angeles
+
+Article: 064p.txt
+turkey,eu,cyprus,blair,country,muslim
+
+Article: 064s.txt
+mcilroy,indoor,erfurt,cold,seconds,northern
+
+Article: 064t.txt
+music,mobile,phones,gartner,milanesi,mobiles
+
+Article: 065b.txt
+airlines,eu,fuel,development,aid,levy
+
+Article: 065e.txt
+film,miyazaki,animation,takings,box office,japanese
+
+Article: 065p.txt
+guantanamo,guantanamo bay,torture,men,bay,evidence
+
+Article: 065s.txt
+radcliffe,marathon,race,london,bedford,25th
+
+Article: 065t.txt
+yahoo,yang,jerry,jerry yang,dot,web
+
+Article: 066b.txt
+ifo,economy,confidence,german,index,february
+
+Article: 066e.txt
+grudge,ticket,dergarabedian,hits,sony,sony pictures
+
+Article: 066p.txt
+chamber,hunting,men,offence,hunt,ferry
+
+Article: 066s.txt
+olympic,holmes,medal,radcliffe,athens,team gb
+
+Article: 066t.txt
+eduvision,school,herren,satellite,students,project
+
+Article: 067b.txt
+fao,subsidies,developing,agricultural,countries,tariffs
+
+Article: 067e.txt
+cesar,film,kechiche,chorus,18th,long engagement
+
+Article: 067p.txt
+access,fathers,court,parenting,mediation,disputes
+
+Article: 067s.txt
+francis,lewis,gold,relay,athens,championship
+
+Article: 067t.txt
+flynn,rules,mobile,ringtones,firms,content
+
+Article: 068b.txt
+construction,foreign,foreign investment,investment,nath,indian
+
+Article: 068e.txt
+tautou,actress,amelie,ron howard,jeunet,vinci
+
+Article: 068p.txt
+euthanasia,bill,decisions,cmf,mental capacity bill,doctors
+
+Article: 068s.txt
+ac,belgrave harriers,essex,holmes,woodford green,essex ladies
+
+Article: 068t.txt
+raskin,macintosh,apple,interface,computer,mac
+
+Article: 069b.txt
+boeing,airbus,planes,learmount,plane,aircraft
+
+Article: 069e.txt
+swank,foxx,actors,oscars,million dollar baby,dollar baby
+
+Article: 069p.txt
+workers,pension,prescott,unions,choice,government
+
+Article: 069s.txt
+olympic,champion,seconds,indoor,best,record
+
+Article: 069t.txt
+mobile,phone,phones,intervoice,sim,owners
+
+Article: 070b.txt
+circuit city,circuit,city,retailer,highfield,armstrong
+
+Article: 070e.txt
+factual,best,bafta,film,playschool,writer
+
+Article: 070p.txt
+trial,terror,home secretary,suspects,home,house
+
+Article: 070s.txt
+samaria,kelly,defar,shape,runners,record
+
+Article: 070t.txt
+telewest,sky plus,sky,pvrs,plus,subscribers
+
+Article: 071b.txt
+beer,asahi,happoshu,malt,breweries,alternatives
+
+Article: 071e.txt
+darin,spacey,bobby darin,bobby,premiere,bosworth
+
+Article: 071p.txt
+visa,staff,committee,application,minutes,home office
+
+Article: 071s.txt
+tomlinson,birmingham,indoor,madrid,training,francis
+
+Article: 071t.txt
+games,learning,classroom,futurelab,game,owen
+
+Article: 072b.txt
+card,central bank,bank,central,spending,economy
+
+Article: 072e.txt
+alexander,stone,oliver stone,box office,film,box
+
+Article: 072p.txt
+bill,lords,clarke,concessions,house,arrest
+
+Article: 072s.txt
+marathon,ioc,running,london,london marathon,olympic
+
+Article: 072t.txt
+epa,recycling,energy,awareness,electronics,power
+
+Article: 073b.txt
+germany,economy,german,eurozone,rates,hopes
+
+Article: 073e.txt
+ray,dvd,film,oscar,box office,best
+
+Article: 073p.txt
+lord,dubs,lord dubs,succession,discrimination,rev
+
+Article: 073s.txt
+johnson,jump,european,competes,next,birmingham grand
+
+Article: 073t.txt
+fi,wireless,hotspots,bt,evil,openzone
+
+Article: 074b.txt
+turkcell,iran,mobile,turkish,investment,deal
+
+Article: 074e.txt
+ocean,sequel,twelve,soderbergh,clooney,box office
+
+Article: 074p.txt
+bnp,commit,griffin,suspicion,tyndall,incitement
+
+Article: 074s.txt
+pavey,indoor,cross,injuries,championships,country
+
+Article: 074t.txt
+net,makower,china,chinese,use,rare
+
+Article: 075b.txt
+jet,fuel,tax,airlines,eu,ministers
+
+Article: 075e.txt
+my summer,love,vera drake,drake,vera,dead man
+
+Article: 075p.txt
+livingstone,apologise,johnson,ken,jewish,mr
+
+Article: 075s.txt
+britain,russia,race,men,fourth,victory
+
+Article: 075t.txt
+peer,copyright,piracy,raids,men,direct connect
+
+Article: 076b.txt
+palestinian,closures,west bank,bank,economic,report
+
+Article: 076e.txt
+fockers,christmas,box office,meet,box,day
+
+Article: 076p.txt
+defence,projects,procurement,nao,delays,report
+
+Article: 076s.txt
+race,kipchoge,dibaba,mccormick,lap,champion
+
+Article: 076t.txt
+google,search,google video,tv,video,searches
+
+Article: 077b.txt
+rosneft,yugansk,cnpc,oil,russian,yukos
+
+Article: 077e.txt
+effects,dvd,commentaries,films,superhero,gray
+
+Article: 077p.txt
+budget,election,brown,chancellor,taxes,finance
+
+Article: 077s.txt
+riley,hat,yelling,cross,metres,trick
+
+Article: 077t.txt
+programs,criminals,viruses,malicious,malware,spyware
+
+Article: 078b.txt
+fiat,gm,stake,opel,sell,deadline
+
+Article: 078e.txt
+aviator,baby,million dollar baby,dollar baby,favourite,dollar
+
+Article: 078p.txt
+children,asylum,albania,child,unaccompanied,return
+
+Article: 078s.txt
+race,ethiopia,butler,cross,spain,briton karl keska
+
+Article: 078t.txt
+blogs,blog,survey,aggregators,americans,readership
+
+Article: 079b.txt
+id,complaints,fraud,theft,identity,credit
+
+Article: 079e.txt
+film,winner,award,ross,hero,return
+
+Article: 079p.txt
+register,voters,electoral,younger,voting,vote
+
+Article: 079s.txt
+kenteris,wada,athens,drugs,thanou,iaaf
+
+Article: 079t.txt
+employers,data,system,software,privacy,bridgehead software
+
+Article: 080b.txt
+argentina,venezuelan,venezuela,deal,chavez,president
+
+Article: 080e.txt
+pbs,dirty,dirty war,uncut,nude,atlas
+
+Article: 080p.txt
+literacy,learners,adult,qualifications,adults,numeracy
+
+Article: 080s.txt
+greek,sevastis,sprinters,thanou,kenteris,athletes
+
+Article: 080t.txt
+law,eu,patenting,software,inventions,delay
+
+Article: 081b.txt
+bosch,faulty,bmw,recall,diesel,mercedes
+
+Article: 081e.txt
+oscars,rain,winners,envelopes,ceremony,oscar
+
+Article: 081p.txt
+id,cards,introduce,tories,bill,sources
+
+Article: 081s.txt
+iaaf,kenteris,thanou,segas,greek,doping
+
+Article: 081t.txt
+search,results,engines,searchers,pew,users
+
+Article: 082b.txt
+exel,logistics,synergies,ups,firm,shares
+
+Article: 082e.txt
+producers,evans,aviator,mann,film,nominated
+
+Article: 082p.txt
+eu,constitution,straw,referendum,propaganda,ancram
+
+Article: 082s.txt
+kenteris,tribunal,doping,iaaf,greek,thanou
+
+Article: 082t.txt
+hasson,developers,games,consoles,climax,teams
+
+Article: 083b.txt
+yukos,court,russian,bank,yugansk,deutsche bank
+
+Article: 083e.txt
+cage,national treasure,treasure,place,epic,national
+
+Article: 083p.txt
+hague,ambition,mr,party,front,bench
+
+Article: 083s.txt
+johnson,yelling,butler,masai,finished,cross
+
+Article: 083t.txt
+windows,security,software,microsoft,pcs,pirated
+
+Article: 084b.txt
+remittances,mexican,bank,mexico,remittance,inter
+
+Article: 084e.txt
+nominees,oscar,foxx,swank,oscars,dicaprio
+
+Article: 084p.txt
+civil service,civil,tuc,cuts,jobs,strike
+
+Article: 084s.txt
+holmes,glasgow,events,track,norwich union international,soil
+
+Article: 084t.txt
+nintendo,ds,psp,launch,handheld,console
+
+Article: 085b.txt
+lending,mortgage,figures,approvals,december,november
+
+Article: 085e.txt
+film,catholic,priest,pande,mumbai,catholics
+
+Article: 085p.txt
+quangos,potato,lewis,council,useless,labour
+
+Article: 085s.txt
+tulu,caledonian,olympic,bupa great caledonian run,derartu tulu,tokyo marathons
+
+Article: 085t.txt
+search,selection,tate,artgarden,keywords,paintings
+
+Article: 086b.txt
+manufacturing,cips,survey,pmi,purchasing,index
+
+Article: 086e.txt
+william hill,bookmakers,best,hill,favourite,aviator
+
+Article: 086p.txt
+stem,cells,cell,tissue,research,howard
+
+Article: 086s.txt
+kronberg,vivancos,dorival,scott,circuit,medal
+
+Article: 086t.txt
+document,documents,information,sensitive,microsoft,word
+
+Article: 087b.txt
+worldcom,ebbers,myers,accounting,mr,weingarten
+
+Article: 087e.txt
+howl,castle,moving,film,miyazaki,distributor
+
+Article: 087p.txt
+asylum,refugees,howard,immigration,plans,quotas
+
+Article: 087s.txt
+keska,hickey,pavey,yelling,cross,march
+
+Article: 087t.txt
+regulation,content,internet,net,tv,internet service
+
+Article: 088b.txt
+metlife,citigroup,insurance,travelers,banking,distribution
+
+Article: 088e.txt
+ocean,sequel,twelve,soderbergh,clooney,box office
+
+Article: 088p.txt
+marketing,tps,calls,parties,telephone,rules
+
+Article: 088s.txt
+conte,jones,marion,marion jones,doping,detector
+
+Article: 088t.txt
+blog,blogs,bloggies,best,categories,nolan
+
+Article: 089b.txt
+dollar,exports,european,sarkozy,ministers,tokyo
+
+Article: 089e.txt
+robocop,actor,twin peaks,peaks,oscar,twin
+
+Article: 089p.txt
+mcletchie,tods murray,murray,advocacy,section,mr
+
+Article: 089s.txt
+thanou,iaaf,greek,tribunal,olympics,missing
+
+Article: 089t.txt
+opera,browser,voice,pages,hanson,available
+
+Article: 090b.txt
+wine,vintners,french,producers,euros,bussereau
+
+Article: 090e.txt
+scholl,film,carmen,leaflets,nazi,berlin
+
+Article: 090p.txt
+climate,msps,highlands,seas,sepa,farms
+
+Article: 090s.txt
+francis,gardener,mbe,lewis,gold,relay
+
+Article: 090t.txt
+hop,millan,hip,spanish,rap,com
+
+Article: 091b.txt
+rating,russia,russian,debt,hessel,investment
+
+Article: 091e.txt
+best,film,award,actress,actor,wine
+
+Article: 091p.txt
+winter,insulation,vouchers,pensioner,energy,discounts
+
+Article: 091s.txt
+balco,anderson,trial,conte,steroid,hearing
+
+Article: 091t.txt
+peer,movie,mpaa,files,parents,glickman
+
+Article: 092b.txt
+turkcell,irancell,israel,stake,israeli,network
+
+Article: 092e.txt
+nominations,foxx,awards,golden,globes,golden globes
+
+Article: 092p.txt
+behaviour,asbos,csos,areas,nuisance,social
+
+Article: 092s.txt
+collins,chambers,dwain,olympics,compete,anabolic
+
+Article: 092t.txt
+bruvik,music,norway,norwegian,napster,violation
+
+Article: 093b.txt
+argentina,bondholders,debt,offer,investors,default
+
+Article: 093e.txt
+godzilla,hollywood,star,shogo tomiyama,final wars,hollywood boulevard
+
+Article: 093p.txt
+iraq,troops,kennedy,exit,withdrawal,phased
+
+Article: 093s.txt
+jamie,back,physio,sessions,accident,hours
+
+Article: 093t.txt
+voip,wimax,phones,fixed,operators,mobile
+
+Article: 094b.txt
+quarter,gdp,rate,figure,annual,spending
+
+Article: 094e.txt
+weitz,pullman,god,books,dark materials,church
+
+Article: 094p.txt
+drinking,binge,mcconnell,drunk,promotions,drinks
+
+Article: 094s.txt
+francis,christie,lewis,linford christie,linford,relay
+
+Article: 094t.txt
+definition,dvd,dean,dvds,high,master
+
+Article: 095b.txt
+reddy,rupees,dr,profits,sales,generics
+
+Article: 095e.txt
+best,actor,globes,comedy,prize,golden
+
+Article: 095p.txt
+baume,mr,brown,agendas,civil,blair
+
+Article: 095s.txt
+martyn,everton,rooney,ronaldo,bent,fortune
+
+Article: 095t.txt
+games,mobile,game,play,titles,handsets
+
+Article: 096b.txt
+burren,burren energy,exploration,energy,contracts,egypt
+
+Article: 096e.txt
+festival,wham,singer,features,michael,life
+
+Article: 096p.txt
+howard,mps,welsh,assembly,welsh mps,number
+
+Article: 096s.txt
+nistelrooy,van nistelrooy,van,ferguson,united,training
+
+Article: 096t.txt
+spyware,california,programs,software,computer,fines
+
+Article: 097b.txt
+dollar,slide,euro,fundamentals,deficit,snow
+
+Article: 097e.txt
+moore,film,awards,gibson,bush,movie
+
+Article: 097p.txt
+deport,clarke,suspects,home,countries,sandford
+
+Article: 097s.txt
+moyes,beattie,gallas,headbutt,dismissal,everton
+
+Article: 097t.txt
+donations,aid,donate,online,organisations,agencies
+
+Article: 098b.txt
+imf,eurozone,german,german economy,economy,growth
+
+Article: 098e.txt
+hanks,mythology,vinci,tom hanks,book,da
+
+Article: 098p.txt
+care,policy,sums,research,allander institute,brankin
+
+Article: 098s.txt
+ronaldo,knows,contract,club,united,nobody
+
+Article: 098t.txt
+vodafone,mobile,cellnet,phones,mobiles,phone
+
+Article: 099b.txt
+sales,gm,ford,vehicles,toyota,car
+
+Article: 099e.txt
+film,festival,starring,screening,convicted,life
+
+Article: 099p.txt
+brown,prosperity,mr,blair,labour,prime
+
+Article: 099s.txt
+smith,friendly,scotland,home,fixture,series
+
+Article: 099t.txt
+blogs,nachison,media,traditional,blog,information
+
+Article: 100b.txt
+ebbers,sullivan,worldcom,mr,fraud,witness
+
+Article: 100e.txt
+fockers,new year,box office,meet,takings,box
+
+Article: 100p.txt
+mubanga,guantanamo,mr,mi6,camp,detainees
+
+Article: 100s.txt
+mido,apology,shalaby,national,egypt,press
+
+Article: 100t.txt
+molyneux,lionhead,populous,games,honour,lionhead studios
+
+Article: 101b.txt
+bank,economy,australia,reserve bank,rate,australian
+
+Article: 101e.txt
+festival,films,sundance,cinema,liberace,category
+
+Article: 101p.txt
+council,local,tax,councils,reasonable,essex
+
+Article: 101s.txt
+rooney,dunne,mcmanaman,united,city,wright
+
+Article: 101t.txt
+site,blocking,netcraft,traffic,bush,monitoring
+
+Article: 102b.txt
+titan,benin,kerekou,bribery,bribe,officials
+
+Article: 102e.txt
+festival,lewis,berlin,film,berlinale camera,day
+
+Article: 102p.txt
+blunkett,sir alan,nanny,inquiry,alan,mr
+
+Article: 102s.txt
+champions league,gerrard,champions,liverpool,league,season
+
+Article: 102t.txt
+simonetti,blog,ms,airline,delta,fictional
+
+Article: 103b.txt
+marsh,rigging,insurer,cherkasky,elliot spitzer,mmc
+
+Article: 103e.txt
+chart,sales,download,singles,downloads,music
+
+Article: 103p.txt
+carers,foster,fostering,minimum,payment,adss
+
+Article: 103s.txt
+drogba,gallas,duff,mourinho,play,injury
+
+Article: 103t.txt
+camera,phones,cameras,mobiles,images,megapixels
+
+Article: 104b.txt
+tobacco,smoking,firms,prosecutors,government,nicotine
+
+Article: 104e.txt
+gig,benefit,concert,glasgow,mull historical society,mull historical
+
+Article: 104p.txt
+parker bowles,mrs parker bowles,parker,prince,mrs,charles
+
+Article: 104s.txt
+drogba,liverpool,chelsea,kezman,riise,nunez
+
+Article: 104t.txt
+games,researchers,education,computer,legitimate,children
+
+Article: 105b.txt
+aston,vantage,bez,car,porsche,v8
+
+Article: 105e.txt
+band,fightstar,busted,pop,simpson,rumours
+
+Article: 105p.txt
+community,muslim,targeted,police,likely,blears
+
+Article: 105s.txt
+dyer,bolton,giannakopoulos,bowyer,carr,shearer
+
+Article: 105t.txt
+nuclear,iaea,inspectors,plant,system,agency
+
+Article: 106b.txt
+balls,brown,election,rate,mr,rise
+
+Article: 106e.txt
+album,streets,magazine,skinner,poll,grand
+
+Article: 106p.txt
+asylum,howard,refugees,system,immigration,abused
+
+Article: 106s.txt
+charlton,hreidarsson,bartlett,middlesbrough,riggott,boro
+
+Article: 106t.txt
+morquendi,gupta,burying,sri,bloggers,blogger
+
+Article: 107b.txt
+imf,liberian,liberia,grow,transition,authorities
+
+Article: 107e.txt
+session,include,station,december,music,chosen
+
+Article: 107p.txt
+brown,labour,new labour,mr,blair,election
+
+Article: 107s.txt
+grady,crawford,robson,esson,archibald,minutes
+
+Article: 107t.txt
+panda,pandas,wolong,reserve,network,wireless
+
+Article: 108b.txt
+ism,manufacturing,index,february,growth,january
+
+Article: 108e.txt
+jackson,jurors,trial,county,santa,mother
+
+Article: 108p.txt
+tgwu,amicus,merger,unions,union,meetings
+
+Article: 108s.txt
+varga,halliwell,bellamy,petrov,ball,celtic
+
+Article: 108t.txt
+search,desktop,software,microsoft,google,aol
+
+Article: 109b.txt
+lufthansa,euros,dividend,airline,profit,profits
+
+Article: 109e.txt
+album,number,greatest,minogue,chart,hits
+
+Article: 109p.txt
+ict,businesses,uk,business,use,broadband
+
+Article: 109s.txt
+mcallister,meldrum,miller,easton,livi,dair
+
+Article: 109t.txt
+mobile,fixed,phone,questioned,mobiles,phones
+
+Article: 110b.txt
+growth,exports,economy,quarter,expansion,japanese
+
+Article: 110e.txt
+knight,parole,shakur,rap,death row records,marijuana
+
+Article: 110p.txt
+britain,howard,government,blair,kemp,tackle
+
+Article: 110s.txt
+meersseman,robben,kenyon,arjen,barcelona,foot
+
+Article: 110t.txt
+podcasting,curry,podcast,radio,audio,internet
+
+Article: 111b.txt
+unilever,slimfast,company,sales,burgmans,cescau
+
+Article: 111e.txt
+elton,concert,sir elton,sir,crowd,french
+
+Article: 111p.txt
+kilroy,silk,ukip,party,veritas,hockney
+
+Article: 111s.txt
+bridge,mourinho,barcelona,gallas,left,miss
+
+Article: 111t.txt
+sony,pc pro,trotter,pro,award,pc
+
+Article: 112b.txt
+france telecom,telecom,france,equant,orange,euros
+
+Article: 112e.txt
+elvis,charts,singles,chart,song,rock
+
+Article: 112p.txt
+blunkett,disagreed,quinn,mrs quinn,mr,mrs
+
+Article: 112s.txt
+parry,gerrard,liverpool,steven,club,steve
+
+Article: 112t.txt
+psp,halo,gran turismo,gran,playstation,pal
+
+Article: 113b.txt
+commission,vodafone,mobile,roaming,objections,phone
+
+Article: 113e.txt
+skeens,cd,maryland,seeks,labels,lawsuit
+
+Article: 113p.txt
+lucy,pound,pretty,nutter,mother,mp
+
+Article: 113s.txt
+wright,phillips,eriksson,start,carragher,johnson
+
+Article: 113t.txt
+nm2,viewers,project,wyver,tv,editing
+
+Article: 114b.txt
+ebbers,worldcom,sullivan,mr,fraud,trial
+
+Article: 114e.txt
+doherty,bail,curfew,wass,pete doherty,magistrates
+
+Article: 114p.txt
+ballot,transport,residents,council,congestion,edinburgh
+
+Article: 114s.txt
+metatarsal,robben,foot,mokoena,injury,weeks
+
+Article: 114t.txt
+argonaut,games,cash,bbc news online,london,save
+
+Article: 115b.txt
+garnier,glaxo,obesity,pipeline,profits,sales
+
+Article: 115e.txt
+snoop,snoop dogg,rapper,abc,woman,alleged
+
+Article: 115p.txt
+limit,drivers,drink,safety,drinking,transport
+
+Article: 115s.txt
+giggs,toshack,wales,cap,united,50th
+
+Article: 115t.txt
+computer,visitor,pompeii,virtual,project,life
+
+Article: 116b.txt
+smfg,daiwa,japan,financial,shares,discussions
+
+Article: 116e.txt
+studio,recorded,hit factory,paul simon,lennon,premises
+
+Article: 116p.txt
+csa,agency,payments,committee,system,pensions
+
+Article: 116s.txt
+bosvelt,keegan,age,city,paul bosvelt,unsung hero
+
+Article: 116t.txt
+cabir,phone,bluetooth,strains,symbian,range
+
+Article: 117b.txt
+mercedes,euros,daimlerchrysler,profits,chrysler,carmaker
+
+Article: 117e.txt
+def jam,def,jam,hop,hip,black album
+
+Article: 117p.txt
+speaker,lords,boothroyd,lord chancellor,lord,chancellor
+
+Article: 117s.txt
+mladenovic,sociedad,rangers,permission,injury,midfielder
+
+Article: 117t.txt
+virus,bagle,mail,joke,security,variant
+
+Article: 118b.txt
+kronor,ericsson,svanberg,sales,profit,quarter
+
+Article: 118e.txt
+band,rem,mills,concerts,dates,date
+
+Article: 118p.txt
+courts,witnesses,lord,victims,lord falconer,falconer
+
+Article: 118s.txt
+parry,liverpool,gerrard,stadium,club,morgan
+
+Article: 118t.txt
+domains,icann,domain,names,travel,approval
+
+Article: 119b.txt
+mpc,inflation,rates,rate,bank,data
+
+Article: 119e.txt
+kilgore,carter,june carter cash,ring,fire,johnny
+
+Article: 119p.txt
+scarman,lord scarman,lord,brixton,riots,great
+
+Article: 119s.txt
+friendlies,manager,players,walter,better,get
+
+Article: 119t.txt
+argonaut,just add monsters,morpheme,monsters,rubin,jez san
+
+Article: 120b.txt
+cocoa,nigeria,production,crop,tonnes,naira
+
+Article: 120e.txt
+bob,marley,africa,island records,black america,partridge
+
+Article: 120p.txt
+prince,harry,apology,prince harry,nazis,howard
+
+Article: 120s.txt
+minute,torres,gravesen,barca,raul,zidane
+
+Article: 120t.txt
+shadowcrew,fraud,criminals,secret service,investigators,credit
+
+Article: 121b.txt
+fed,rates,rise,quarter,economy,interest
+
+Article: 121e.txt
+scottish,belle,brit,band,musical,brit award
+
+Article: 121p.txt
+waiting,patients,target,hutt,wales,welsh
+
+Article: 121s.txt
+parry,gerrard,liverpool,steven,club,steve
+
+Article: 121t.txt
+robot,robots,humans,human,dautenhahn,robotiquette
+
+Article: 122b.txt
+sec,columbia,funds,penalties,cfd,boa
+
+Article: 122e.txt
+dance,cook,music,rio,album,zoe
+
+Article: 122p.txt
+tb,health,tests,public health,howard,hiv
+
+Article: 122s.txt
+united,brentford,tie,replay,southampton,nottingham forest
+
+Article: 122t.txt
+machines,cash,banks,windows,viruses,thiemann
+
+Article: 123b.txt
+tube,underground,strike,aires,buenos aires,buenos
+
+Article: 123e.txt
+mcfadden,school,st fintian,fintian,video,song
+
+Article: 123p.txt
+speaker,chamber,blackberries,pager,debates,commons
+
+Article: 123s.txt
+upson,england,brown,carragher,eriksson,squad
+
+Article: 123t.txt
+site,blocking,netcraft,traffic,bush,overseas
+
+Article: 124b.txt
+softbank,otoku,bargain,firm,december,tech
+
+Article: 124e.txt
+melcher,byrds,manson,beach,turn turn,doris
+
+Article: 124p.txt
+hutt,gibbons,waiting,wales,dr,lists
+
+Article: 124s.txt
+glazer,club,ferdinand,united,board,opposed
+
+Article: 124t.txt
+boxes,sky,loyalty,whalley,cards,viewers
+
+Article: 125b.txt
+wmc,vaile,bid,australian,nickel,xstrata
+
+Article: 125e.txt
+snow patrol,patrol,irish,snow,brian mcfadden,mcfadden
+
+Article: 125p.txt
+houston,ukip,suspended,candidate,mr,views
+
+Article: 125s.txt
+premier,arsenal,cole,league,chelsea,pires
+
+Article: 125t.txt
+battlefront,star wars,wars,game,star,ewoks
+
+Article: 126b.txt
+barclays,bank,profits,varley,investment,barclays capital
+
+Article: 126e.txt
+number,chart,album,doves,futureheads,akon
+
+Article: 126p.txt
+bush,chirac,president,denial,eu,blair
+
+Article: 126s.txt
+mccall,dundee united,dundee,ian mccall,sturrock,league
+
+Article: 126t.txt
+doom,games,game,awards,shooter,fi
+
+Article: 127b.txt
+yukos,menatep,yugansk,gaillard,russian,charter
+
+Article: 127e.txt
+chart,sales,download,singles,downloads,music
+
+Article: 127p.txt
+aid,brown,g8,countries,debt,cafod
+
+Article: 127s.txt
+kewell,mandic,harry,leverkusen,fulham,recover
+
+Article: 127t.txt
+gadgets,ipod,irish,gadget,sony,mp3
+
+Article: 128b.txt
+qantas,dixon,australia,earnings,tsunami,profit
+
+Article: 128e.txt
+gig,scissor sisters,scissor,sisters,virgin radio,newcomers
+
+Article: 128p.txt
+brown,borrowing,mr,chancellor,maternity,debt
+
+Article: 128s.txt
+smith,squad,respectability,friendly,manchester,approach
+
+Article: 128t.txt
+commodore,brand,computers,tulip computers,1980s,tulip
+
+Article: 129b.txt
+ministry,the ministry,iraq,bids,invite,coverage
+
+Article: 129e.txt
+number,album,brits,chart,elvis,singles chart
+
+Article: 129p.txt
+ivory,ivory coast,standby,coast,nationals,troops
+
+Article: 129s.txt
+cardiff,west,west ham,ham,gabbidon,roberts
+
+Article: 129t.txt
+bt,broadband,lines,connections,phone,llu
+
+Article: 130b.txt
+india,air,boeing,aviation,aircraft,lockheed
+
+Article: 130e.txt
+song,read,recorded,relief,single,charity
+
+Article: 130p.txt
+aid,poverty,rich,countries,g8,world
+
+Article: 130s.txt
+sunderland,larne,weir,robbie,clubs,physique
+
+Article: 130t.txt
+san andreas,andreas,xbox,sales,ps2,san
+
+Article: 131b.txt
+gazprom,yugansk,rosneft,foreigners,russian,oil
+
+Article: 131e.txt
+music,kapranos,government,musicians,listen,franz
+
+Article: 131p.txt
+police,fairford,raf fairford,coaches,raf,protestors
+
+Article: 131s.txt
+newry,mccreadie,registration,portadown,ifa,bangor
+
+Article: 131t.txt
+seafarers,cards,biometric,ship,crystal,convention
+
+Article: 132b.txt
+inbev,ambev,volume,brazil,sales,beer
+
+Article: 132e.txt
+outkast,album,band,boi,pair,andre
+
+Article: 132p.txt
+age,pensions,retirement,johnson,ages,ageing
+
+Article: 132s.txt
+cup,italy,republic,china,world,brian kerr
+
+Article: 132t.txt
+jaynes,sister,virginia,spam,mails,prosecutors
+
+Article: 133b.txt
+cameroon,corruption,inoni,prime,guilty,payroll
+
+Article: 133e.txt
+super bowl,bowl,super,sir paul,jackson,show
+
+Article: 133p.txt
+jowell,gambling,bill,culture,ms,pound
+
+Article: 133s.txt
+finnan,ireland,basel,stephen carr,play,carr
+
+Article: 133t.txt
+simonetti,delta,fictional,airline,ms,blog
+
+Article: 134b.txt
+jobs,labor,labor department,october,september,wall street
+
+Article: 134e.txt
+korn,welch,guitarist,happiness,bakersfield,rock
+
+Article: 134p.txt
+hunting,hunt,police,hunts,ban,law
+
+Article: 134s.txt
+faroe,faroe islands,cyprus,republic of ireland,switzerland,islands
+
+Article: 134t.txt
+gates,technologies,xbox,trends,ces,devices
+
+Article: 135b.txt
+feta,cheese,greece,designation,danish,label
+
+Article: 135e.txt
+vibe,dre,stabbing,johnson,dr,awards
+
+Article: 135p.txt
+indonesia,british,blair,aid,auxiliary,royal fleet
+
+Article: 135s.txt
+sakhnin,bnei,murambadoro,club,israeli,stint
+
+Article: 135t.txt
+san,san andreas,andreas,cj,gta,games
+
+Article: 136b.txt
+yushchenko,ukraine,hensel,krivorizhstal,mill,privatisation
+
+Article: 136e.txt
+christmas,formula,santa,song,chart,band aid
+
+Article: 136p.txt
+embargo,china,straw,arms,tiananmen square,code
+
+Article: 136s.txt
+israel,miresmaeili,hashemian,judo,bayern,iranian
+
+Article: 136t.txt
+bt,broadband,calls,bt communicator,communicator,customers
+
+Article: 137b.txt
+rates,bank,slowdown,jeffrey,england,hold
+
+Article: 137e.txt
+tickets,eavis,id,touts,glastonbury,cards
+
+Article: 137p.txt
+hunt,hunts,hunting,law,police,crowds
+
+Article: 137s.txt
+vieira,neville,gary neville,patrick vieira,gary,patrick
+
+Article: 137t.txt
+donofrio,computing,technology,pervasive,value,innovation
+
+Article: 138b.txt
+prices,oil,crude,barrel,dollar,tuesday
+
+Article: 138e.txt
+queen,rodgers,all right,bad company,drummer,tour
+
+Article: 138p.txt
+fraud,eu,member,states,cases,nao
+
+Article: 138s.txt
+souness,bellamy,newcastle,goals,celtic,enough
+
+Article: 138t.txt
+firefox,browser,explorer,microsoft,mozilla,mozilla foundation
+
+Article: 139b.txt
+ilo,unemployment,jobless,german,methodology,rate
+
+Article: 139e.txt
+u2,awards,grammy,album,band,grammy awards
+
+Article: 139p.txt
+straw,bus,kashmir,region,pakistan,india
+
+Article: 139s.txt
+james,bosvelt,duff,fowler,lampard,chelsea
+
+Article: 139t.txt
+halo,game,errera,bungie,sequel,video
+
+Article: 140b.txt
+steel,ore,iron,price,baoshan,nippon
+
+Article: 140e.txt
+tickets,u2,ticket,green,band,concerts
+
+Article: 140p.txt
+women,survivors,orphans,hutu,rwandan,genocide
+
+Article: 140s.txt
+rijkaard,chelsea,uefa,mourinho,frisk,referee
+
+Article: 140t.txt
+painkiller,kings,players,tour,gamers,tournament
+
+Article: 141b.txt
+bmw,crossover,panke,vehicles,segment,market
+
+Article: 141e.txt
+ozzy,police,osbourne,sharon,burglar,injured
+
+Article: 141p.txt
+id,cards,howard,shadow,police,plans
+
+Article: 141s.txt
+benitez,gerrard,liverpool,win,trophy,steven
+
+Article: 141t.txt
+blue gene,gene,blue,supercomputer,top,machine
+
+Article: 142b.txt
+dollar,reserves,korea,currencies,holdings,euro
+
+Article: 142e.txt
+bravery,top,sound,music,survey,rock
+
+Article: 142p.txt
+constitution,referendum,eu,question,treaty,vote
+
+Article: 142s.txt
+owen,england,premiership,bench,liverpool,striker
+
+Article: 142t.txt
+messages,text,rampersad,senanayake,sms,mail
+
+Article: 143b.txt
+cadbury,sales,drinks,confectionery,brands,pepper
+
+Article: 143e.txt
+band aid,copies,aid,band,single,chart
+
+Article: 143p.txt
+shortlists,black,minority,malik,ethnic,nec
+
+Article: 143s.txt
+edelman,stadium,wenger,surroundings,arsene,summer
+
+Article: 143t.txt
+jeremiah,bowden,surveillance,virtual,face,system
+
+Article: 144b.txt
+opec,oil,prices,crude,heating,barrel
+
+Article: 144e.txt
+toy soldiers,toy,eminem,soldiers,number,elvis
+
+Article: 144p.txt
+mugging,nairobi,kenya,mp,men,davies
+
+Article: 144s.txt
+souness,shearer,goal,uefa,got,think
+
+Article: 144t.txt
+cm,game,football manager,football,manager,fm2005
+
+Article: 145b.txt
+bankruptcy,stores,foods,lynch,chapter,protection
+
+Article: 145e.txt
+super bowl,bowl,super,sir paul,jackson,show
+
+Article: 145p.txt
+bnp,ukip,suffolk,green,meeting,suffolk coastal
+
+Article: 145s.txt
+mcclaren,boro,portuguese,uefa,stewart,hamstring
+
+Article: 145t.txt
+musicians,music,sharing,madden,internet,file
+
+Article: 146b.txt
+lisbon,kok,targets,economic,report,eu
+
+Article: 146e.txt
+anthony,duet,alicia keys,lopez,keys,alicia
+
+Article: 146p.txt
+nuclear,waste,dumpsite,stored,intermediate,environmental
+
+Article: 146s.txt
+hartson,rangers,waterreus,celtic,vignal,douglas
+
+Article: 146t.txt
+broadband,tv,nielsen,viewing,jupiter research,jupiter
+
+Article: 147b.txt
+islamic,malaysia,banking,bank,central bank,central
+
+Article: 147e.txt
+beastie,beastie boys,newton,boys,sampling,sample
+
+Article: 147p.txt
+migrants,clarke,immigration,migration,tories,labour
+
+Article: 147s.txt
+mikoliunas,hearts,sfa,referee,rangers,prso
+
+Article: 147t.txt
+lycos,screensaver,sites,spam,lycos europe,spammers
+
+Article: 148b.txt
+fiat,engines,gm,alfa,cylinder,alfa romeo
+
+Article: 148e.txt
+music,copyright,music rights,lessons,piracy,schools
+
+Article: 148p.txt
+sukul,postal,mawrey,men,warehouse,birmingham
+
+Article: 148s.txt
+cantona,masks,palace,selhurst park,incident,fans
+
+Article: 148t.txt
+apple,music,itunes,ipod,format,digital
+
+Article: 149b.txt
+saab,gm,car,cadillac,luxury,factory
+
+Article: 149e.txt
+spector,clarkson,lana,action,legal,ms
+
+Article: 149p.txt
+palestinian,blair,israelis,palestinians,peace,abbas
+
+Article: 149s.txt
+michels,dutch,football,cruyff,legendary,coach
+
+Article: 149t.txt
+msn,blogs,journals,blogging,microsoft,msn spaces
+
+Article: 150b.txt
+tysabri,biogen,elan,biogen idec,avonex,sclerosis
+
+Article: 150e.txt
+billboard,usher,outkast,keys,maroon5,awards
+
+Article: 150p.txt
+hassan,galloway,iraq,mrs hassan,mrs,care international
+
+Article: 150s.txt
+forest,jol,manager,professional,side,goals
+
+Article: 150t.txt
+broadband,demos,online,net,report,fast
+
+Article: 151b.txt
+rates,minutes,bank,mpc,paul tucker,inflation
+
+Article: 151e.txt
+eminem,gig,album,rap,river thames,islington
+
+Article: 151p.txt
+begg,men,azmat,police,guantanamo,evidence
+
+Article: 151s.txt
+owen,real,barcelona,betis,scored,starting
+
+Article: 151t.txt
+blogs,blog,word,webster,words,dictionary
+
+Article: 152b.txt
+prices,crude,oil,barrel,opec,dollar
+
+Article: 152e.txt
+tapes,nogar,presley,auction,rca,recordings
+
+Article: 152p.txt
+hunting,hunt,foxes,hunts,law,intimidation
+
+Article: 152s.txt
+milan,ferguson,ancelotti,rooney,play,champions league
+
+Article: 152t.txt
+text,texting,mda,messages,pub,nearest
+
+Article: 153b.txt
+nationwide,prices,bank,housing,house,january
+
+Article: 153e.txt
+best,outkast,mtv,muse,awards,d12
+
+Article: 153p.txt
+asylum,migrants,seekers,clarke,immigration,system
+
+Article: 153s.txt
+chester,rush,vaughan,aizlewood,league two,liverpool
+
+Article: 153t.txt
+nintendo,ds,device,gaming,handheld,screens
+
+Article: 154b.txt
+golden,rule,budget,ons,fiscal,brown
+
+Article: 154e.txt
+gallagher,liam gallagher,fight,brawl,oasis,band
+
+Article: 154p.txt
+mayor,livingstone,concentration,guard,assembly,camp
+
+Article: 154s.txt
+madrid,arsenal,real,real madrid,reyes,linking
+
+Article: 154t.txt
+half life,game,life,half,everything,doom iii
+
+Article: 155b.txt
+federated,deal,macy,department,stores,bloomingdale
+
+Article: 155e.txt
+nirvana,unreleased,cobain,box,kurt cobain,band
+
+Article: 155p.txt
+musharraf,pakistani,gen musharraf,gen,pakistan,visit
+
+Article: 155s.txt
+benitez,jerzy,steven,jerzy dudek,score,dudek
+
+Article: 155t.txt
+dvd,ray,dvds,next generation,games,hd
+
+Article: 156b.txt
+industrial,output,contraction,japan,recession,demand
+
+Article: 156e.txt
+soul,soul train,nominations,train,best,album
+
+Article: 156p.txt
+sir john,smith,blunkett,sir,civil,visa
+
+Article: 156s.txt
+souness,shearer,bbc newcastle,milburn,summer,jackie milburn
+
+Article: 156t.txt
+exeem,bittorrent,file,sloncek,suprnova,files
+
+Article: 157b.txt
+khodorkovsky,lebedev,charges,yukos,mr,court
+
+Article: 157e.txt
+anthem,recording,charity,issued,bob dylan,springsteen
+
+Article: 157p.txt
+kilroy,silk,slurry,attacker,clothes,party
+
+Article: 157s.txt
+wenger,toure,bayern,goals,arsenal,goal
+
+Article: 157t.txt
+games,political,frasca,campaigns,video,tool
+
+Article: 158b.txt
+qatar,exxonmobil,lng,gas,tonnes,shell
+
+Article: 158e.txt
+queen,rodgers,all right,bad company,drummer,tour
+
+Article: 158p.txt
+fuel,duty,freeze,motorists,duties,brown
+
+Article: 158s.txt
+stam,dutchman,united,ferguson,manchester united,rooney
+
+Article: 158t.txt
+broadband,tv,nielsen,jupiter research,viewing,jupiter
+
+Article: 159b.txt
+chidambaram,rupees,tax,india,budget,spending
+
+Article: 159e.txt
+band aid,aid,band,single,song,christmas
+
+Article: 159p.txt
+howard,election,tory,manifesto,forgotten,labour
+
+Article: 159s.txt
+mourinho,chelsea,league,fa,cup,position
+
+Article: 159t.txt
+lycos,screensaver,sites,spam,lycos europe,spammers
+
+Article: 160b.txt
+fiat,gm,stake,euros,car,outright
+
+Article: 160e.txt
+band aid,charity,single,song,aid,band
+
+Article: 160p.txt
+macdonald,trial,qc,jury,terror,special
+
+Article: 160s.txt
+break,hodgson,winter,champions league,league,champions
+
+Article: 160t.txt
+halo,warcraft,nintendo,game,xbox,online
+
+Article: 161b.txt
+boeing,druyun,sears,pentagon,ms,contracts
+
+Article: 161e.txt
+morrison,album,label,mark morrison,injunction,wikid
+
+Article: 161p.txt
+turkey,eu,cyprus,turkish,membership,deal
+
+Article: 161s.txt
+ranieri,valencia,uefa,cup,coach,chelsea
+
+Article: 161t.txt
+technology,greenfield,clothing,pearson,smart,skin
+
+Article: 162b.txt
+mci,verizon,qwest,sbc,worldcom,former
+
+Article: 162e.txt
+tour,prince,madonna,album,musicology,elton john
+
+Article: 162p.txt
+safety,tuc,workplaces,whistleblowers,health,union
+
+Article: 162s.txt
+villa,cole,carlton,ankle,operation,chelsea
+
+Article: 162t.txt
+msn,blogs,journals,blogging,microsoft,msn spaces
+
+Article: 163b.txt
+ppi,michigan,core,rates,shepherdson,consumer
+
+Article: 163e.txt
+tapes,nogar,rca,reel,recordings,engineer
+
+Article: 163p.txt
+kinnock,lords,reform,british council,acceptance,advocates
+
+Article: 163s.txt
+arsenal,ljungberg,kenny,fabregas,tonge,blades
+
+Article: 163t.txt
+technologies,cea,watch,video,devices,content
+
+Article: 164b.txt
+yukos,oil,baikal,bankruptcy,yuganskneftegas,russian
+
+Article: 164e.txt
+jazz,auction,john coltrane,belonging,parker,musicians
+
+Article: 164p.txt
+mcconnell,scotland,disaster,scottish,aid,charities
+
+Article: 164s.txt
+ajax,jol,spurs,dutch,coach,cruyff
+
+Article: 164t.txt
+bank,data,card,theft,identity,account
+
+Article: 165b.txt
+growth,consumer,rate,spending,quarter,thayer
+
+Article: 165e.txt
+brass eye,morris,barley,satire,nathan barley,eye
+
+Article: 165p.txt
+pubs,police,licensing,fox,closure,acpo
+
+Article: 165s.txt
+baros,benitez,czech,liverpool,baros liverpool,daily sport
+
+Article: 165t.txt
+brain,cap,electrodes,cursor,researchers,control
+
+Article: 166b.txt
+crossrail,link,treasury,sunday,heathrow,go
+
+Article: 166e.txt
+adoption,contestant,tv,national council,show,fox
+
+Article: 166p.txt
+blunkett,quinn,visa,love,job,mrs quinn
+
+Article: 166s.txt
+prutton,redknapp,referee,match,arsenal,pires
+
+Article: 166t.txt
+brain,cap,electrodes,cursor,researchers,control
+
+Article: 167b.txt
+hariri,lebanon,beirut,lebanese,shares,index
+
+Article: 167e.txt
+gervais,scripts,stiller,sitcom,flanimals,jackson
+
+Article: 167p.txt
+housing,homes,environmental,government,john prescott,sustainable
+
+Article: 167s.txt
+robben,barcelona,chelsea,injured chelsea,daily star,chance
+
+Article: 167t.txt
+nem,digital,content,drm,media,commission
+
+Article: 168b.txt
+cbi,firms,plus,output,survey,costs
+
+Article: 168e.txt
+mtv,ptc,sex,television,kedas,sleaze
+
+Article: 168p.txt
+murder,murderers,guilty,sentences,plea,sentence
+
+Article: 168s.txt
+adriano,chelsea,rinaldi,inter,interested,parma
+
+Article: 168t.txt
+nielsen,usability,dr,design,search,user
+
+Article: 169b.txt
+jet,ipo,jet airways,airways,shares,travel
+
+Article: 169e.txt
+blake,residue,gun,dowell,murder,restaurant
+
+Article: 169p.txt
+hunting,dogs,bradshaw,offence,animals,middle way
+
+Article: 169s.txt
+mourinho,chelsea,carling,fa,gesture,touchline
+
+Article: 169t.txt
+metal slug,slug,metal,scrolling,retro,offer
+
+Article: 170b.txt
+land registry,registry,land,house,december,slowdown
+
+Article: 170e.txt
+eastenders,ratings,primetime,soap,proved,tony jordan
+
+Article: 170p.txt
+powys,patients,hospital,hereford,welsh,health
+
+Article: 170s.txt
+aragones,fine,racist,spanish,punishment,spain
+
+Article: 170t.txt
+casual,gamers,games,titles,gaming,hardcore
+
+Article: 171b.txt
+deutsche boerse,boerse,deutsche,dividend,euros,stock exchange
+
+Article: 171e.txt
+fines,indecency,jackson,fine,fcc,republican
+
+Article: 171p.txt
+sports,schools,school,children,clubs,lottery
+
+Article: 171s.txt
+boro,morrison,hernia,uefa,blow,gmt
+
+Article: 171t.txt
+doom,games,game,awards,shooter,fi
+
+Article: 172b.txt
+growth,unece,economic,economies,deficit,euro
+
+Article: 172e.txt
+eurovision,contest,denmark,50th,broadcasting,anniversary
+
+Article: 172p.txt
+schools,bell,citizenship,faith,muslim,intolerance
+
+Article: 172s.txt
+robson,mourinho,job,jose,intelligent,barcelona
+
+Article: 172t.txt
+gadgets,ipod,irish,gadget,sony,christmas
+
+Article: 173b.txt
+carlsberg,heineken,profits,euros,sales,western
+
+Article: 173e.txt
+csi,promotion,ny,recipients,material,scene
+
+Article: 173p.txt
+napier,executive,human rights,standard,raised,judgement
+
+Article: 173s.txt
+holloway,loan,simon royce,qpr,preston,charlton
+
+Article: 173t.txt
+blue gene,gene,blue,machine,teraflops,supercomputer
+
+Article: 174b.txt
+dam,yangtze,yuan,three gorges dam,gorges dam,three gorges
+
+Article: 174e.txt
+series,show,factor,cowell,itv,judges
+
+Article: 174p.txt
+ferguson,carstairs,ministers,patient,scottish,leave
+
+Article: 174s.txt
+cudicini,carling,mourinho,final,petr cech,chelsea
+
+Article: 174t.txt
+design,surround,gadget,chair,images,sound
+
+Article: 175b.txt
+consumer,insee,january,spending,french,basis
+
+Article: 175e.txt
+super bowl,bowl,keys,super,watched,sir paul
+
+Article: 175p.txt
+labour,chancellor,conservative,cuts,party,gateshead
+
+Article: 175s.txt
+beattie,everton,aston villa,villa,aston,assault
+
+Article: 175t.txt
+bt,broadband,lines,connections,phone,llu
+
+Article: 176b.txt
+drugs,pills,aids,cheaper,glaxosmithkline,packaging
+
+Article: 176e.txt
+friends,hbo,sex and the city,sex,comeback,kudrow
+
+Article: 176p.txt
+sites,councils,travellers,traveller,gypsy,encampments
+
+Article: 176s.txt
+keegan,fowler,norwich,city,nigel worthington,premiership
+
+Article: 176t.txt
+jaynes,sister,virginia,spam,mails,prosecutors
+
+Article: 177b.txt
+wimpey,housing,market,mortgage,uk,grow
+
+Article: 177e.txt
+scoggins,hillbillies,tune,theme,beverly hillbillies,sing
+
+Article: 177p.txt
+plaid,plaid cymru,cymru,llwyd,glyndwr,arson
+
+Article: 177s.txt
+gerrard,liverpool,thompson,chelsea,hope,anfield
+
+Article: 177t.txt
+spyware,microsoft,virus,software,anti,programs
+
+Article: 178b.txt
+wto,russia,progress,membership,johannesson,bilateral
+
+Article: 178e.txt
+apprentice,sir richard,rebel billionaire,rebel,branson,show
+
+Article: 178p.txt
+balfour,balfour beatty,rail,beatty,hatfield,accident
+
+Article: 178s.txt
+blame,cole,van persie,persie,lupoli,van
+
+Article: 178t.txt
+san andreas,andreas,xbox,sales,ps2,san
+
+Article: 179b.txt
+mcmanus,magnier,glazer,bid,mr,club
+
+Article: 179e.txt
+audience,housewives,share,channel,desperate housewives,january
+
+Article: 179p.txt
+hunt,hunting,hunts,ban,countryside,police
+
+Article: 179s.txt
+burnley,rovers,round,ewood park,blackburn,league
+
+Article: 179t.txt
+seafarers,cards,biometric,ship,crystal,convention
+
+Article: 180b.txt
+dollar,korea,reserves,central,south korea,currency
+
+Article: 180e.txt
+bez,mccririck,stallone,nominated,sylvester,housemates
+
+Article: 180p.txt
+bill,falconer,lord falconer,lord,changes,lammy
+
+Article: 180s.txt
+southampton,brentford,saints,league,premiership,redknapp
+
+Article: 180t.txt
+simonetti,delta,fictional,airline,ms,blog
+
+Article: 181b.txt
+india,gas,oil,ongc,energy,russia
+
+Article: 181e.txt
+evans,stall,sale,pieces,rid,detakats
+
+Article: 181p.txt
+sport,school,hours,initiative,pe,sports
+
+Article: 181s.txt
+chelsea,blues,milan,barcelona,leg,champions league
+
+Article: 181t.txt
+nokia,bus,buses,hanau,romen,ticketless
+
+Article: 182b.txt
+french,unemployment,economy,oil,consumer,prices
+
+Article: 182e.txt
+tsunami,tv,clooney,george clooney,money,night
+
+Article: 182p.txt
+terror,suspects,arrest,clarke,house,powers
+
+Article: 182s.txt
+chelsea,blues,milan,barcelona,leg,champions league
+
+Article: 182t.txt
+gig,phones,mobile,phone,video,people
+
+Article: 183b.txt
+lille,germany,factory,eu,coal,unemployment
+
+Article: 183e.txt
+trek,star trek,star,upn,enterprise,series
+
+Article: 183p.txt
+nicholas,northern ireland,sir,ulster,northern,kensington
+
+Article: 183s.txt
+barcelona,mourinho,ronaldinho,champions league,nou camp,chelsea
+
+Article: 183t.txt
+music,portable,players,jupiter,consumers,player
+
+Article: 184b.txt
+paulsmeier,prices,stuart rose,price,average,stuart
+
+Article: 184e.txt
+pops,bbc two,bbc,show,top,programme
+
+Article: 184p.txt
+goldsmith,lord goldsmith,advice,lord,blair,military
+
+Article: 184s.txt
+replay,everton,united,west,manchester united,tie
+
+Article: 184t.txt
+broadband,connection,daily,access,modem,anne
+
+Article: 185b.txt
+tapes,bank,senate,senator,details,theft
+
+Article: 185e.txt
+ceremony,oscar,rock,actress,portman,abc
+
+Article: 185p.txt
+swansea,bnp,mosque,leaflet,community,south wales
+
+Article: 185s.txt
+candela,bolton,allardyce,roma,nicky hunt,oldham
+
+Article: 185t.txt
+nintendo,ds,device,gaming,handheld,screens
+
+Article: 186b.txt
+jet,jet airways,airline,airways,indian,bankers
+
+Article: 186e.txt
+passport,paradise,denise,johnny,spokeswoman,show
+
+Article: 186p.txt
+livingstone,apologise,mayor,mr,finegold,jewish
+
+Article: 186s.txt
+stuart,norwich,appearances,charlton,everton,scoring
+
+Article: 186t.txt
+google,google news,news,china,site,chinese
+
+Article: 187b.txt
+pinochet,gen pinochet,victims,gen,bank,riggs
+
+Article: 187e.txt
+eviction,caprice,kenzie,housemate,surprise,favourite
+
+Article: 187p.txt
+casinos,gambling,casino,jowell,bill,humiliating
+
+Article: 187s.txt
+bellamy,souness,celtic,birmingham,loan,striker
+
+Article: 187t.txt
+technology,systems,network,software,eds,system
+
+Article: 188b.txt
+mci,qwest,verizon,offer,worldcom,dividends
+
+Article: 188e.txt
+ice,rink,thin ice,skater,celebrity,thin
+
+Article: 188p.txt
+musharraf,visit,papers,gen,pakistani,policing
+
+Article: 188s.txt
+campbell,united,arsenal,bitter,gunners,sweetest
+
+Article: 188t.txt
+premium,phone,scams,scam,companies,calls
+
+Article: 189b.txt
+fiat,car,marchionne,morchio,demel,gm
+
+Article: 189e.txt
+moment,holmes,factual,victory,medal,moments
+
+Article: 189p.txt
+bush,blair,mr,change,climate,president
+
+Article: 189s.txt
+rangers,ferguson,blackburn,williams,glasgow rangers,transfer
+
+Article: 189t.txt
+screensaver,spam,lycos,pollmann,sites,websites
+
+Article: 190b.txt
+growth,france,consumer,spending,economic,fourth
+
+Article: 190e.txt
+fletcher,cyril,cyril fletcher,pointon,friend,tv
+
+Article: 190p.txt
+snooker,howard,snooker hall,llanelli,school,hall
+
+Article: 190s.txt
+seychelles,mauritius,bafana,winners,madagascar,group
+
+Article: 190t.txt
+chip,cell,playstation,inside,powerful,sony
+
+Article: 191b.txt
+vioxx,merck,fda,drug,inhibitors,cox
+
+Article: 191e.txt
+golden rose,category,bbc,little britain,nominations,british
+
+Article: 191p.txt
+un,short,ms,authority,tsunami aid,undermine
+
+Article: 191s.txt
+forest,reid,spurs,offer,southampton,dawson
+
+Article: 191t.txt
+online,communities,ippr,civic,public,commons
+
+Article: 192b.txt
+yukos,yugansk,us court,court,bank,russia
+
+Article: 192e.txt
+springer,show,musical,dysfunctional,dinner,opera
+
+Article: 192p.txt
+detainees,guantanamo,begg,rights,moazzam,release
+
+Article: 192s.txt
+redknapp,exeter,tie,portsmouth,chelsea,utd
+
+Article: 192t.txt
+mobile,india,gaming,stat,market,subscribers
+
+Article: 193b.txt
+dortmund,borussia,borussia dortmund,club,euros,rent
+
+Article: 193e.txt
+forensic,csi,science,houck,investigators,dr
+
+Article: 193p.txt
+asylum,immigration,eu,veto,britain,davis
+
+Article: 193s.txt
+gravesen,everton,real,sivabaek,moyes,real madrid
+
+Article: 193t.txt
+show,ces,consumer,devices,electronics,portable
+
+Article: 194b.txt
+lending,mortgage,cml,bba,lull,bsa
+
+Article: 194e.txt
+ethnic,minority,film,companies,industries,barriers
+
+Article: 194p.txt
+cherie,bush,mrs blair,supreme court,guantanamo,guantanamo bay
+
+Article: 194s.txt
+klinsmann,lehmann,keeper,jens,arsenal,germany
+
+Article: 194t.txt
+xp,windows xp,windows,counterfeit,microsoft,software
+
+Article: 195b.txt
+niesr,rule,spending,cycle,golden,economy
+
+Article: 195e.txt
+aid,telethon,relief,nbc,victims,disaster
+
+Article: 195p.txt
+africa,tsunami,conflict,preventable,blair,disaster
+
+Article: 195s.txt
+juninho,celtic,move,hassel,botafogo,club
+
+Article: 195t.txt
+valve,half life,game,steam,copies,life
+
+Article: 196b.txt
+ebbers,worldcom,sullivan,fraud,mr,knew
+
+Article: 196e.txt
+gervais,simpsons,groening,office,writing,comedy
+
+Article: 196p.txt
+campbell,mandelson,bbc,labour,campaigning,dirty
+
+Article: 196s.txt
+wenger,arsenal,club,arsene,contract,fiszman
+
+Article: 196t.txt
+firefox,browser,ie,mozilla,microsoft,explorer
+
+Article: 197b.txt
+krivorizhstal,mill,yushchenko,ukraine,steel,sale
+
+Article: 197e.txt
+peel,john peel,john,dj,da bank,rob da bank
+
+Article: 197p.txt
+kyoto,climate,emissions,blair,treaty,cut
+
+Article: 197s.txt
+west ham,ham,fa,trouble,chelsea,west
+
+Article: 197t.txt
+skulls,program,symbian,phone,malicious,wallpaper
+
+Article: 198b.txt
+cairn,drilling,rajasthan,oil,shares,area
+
+Article: 198e.txt
+keaveney,brookside,anna,actress,itv,film
+
+Article: 198p.txt
+drinking,police,hayman,binge,constable,chief
+
+Article: 198s.txt
+edu,united,reyes,tunnel,brazilian,thrown
+
+Article: 198t.txt
+phone,max,video,ip,web,network
+
+Article: 199b.txt
+saakashvili,georgia,shevardnadze,amnesty,money,president
+
+Article: 199e.txt
+viacom,fcc,indecency,stern,fine,shows
+
+Article: 199p.txt
+games,children,adults,parents,manhunt,industry
+
+Article: 199s.txt
+mutu,drugs,chelsea,decision,substance,fifa
+
+Article: 199t.txt
+reddy,prof reddy,prof,illiterate,pctvt,thinks
+
+Article: 200b.txt
+cuba,tax,cuban,measure,economic,castro
+
+Article: 200e.txt
+appleton,sophie anderton,natalie appleton,bushtucker,sophie,contestants
+
+Article: 200p.txt
+mallon,north east,no campaign,campaign,east,north
+
+Article: 200s.txt
+heinze,henry,ferguson,arsenal,foul,terrible
+
+Article: 200t.txt
+grid,wcg,smallpox,projects,computer,help
+
+Article: 201b.txt
+novartis,sandoz,generic,hexal,acquisitions,acquisition
+
+Article: 201e.txt
+comedy,walliams,bbc three,best,little britain,award
+
+Article: 201p.txt
+bnp,immigration,tories,howard,instincts,griffin
+
+Article: 201s.txt
+mutu,chelsea,wenger,sack,suspended,striker
+
+Article: 201t.txt
+image,tno,gigapixel,lyons,resolution,dutch
+
+Article: 202b.txt
+mci,verizon,qwest,phone,shareholders,worldcom
+
+Article: 202e.txt
+freeview,bbc,digital,parliament,scrutiny,committee
+
+Article: 202p.txt
+drinking,premises,police,binge,tories,drink
+
+Article: 202s.txt
+santini,jacques,arnesen,tottenham,manager,club
+
+Article: 202t.txt
+underwood,animals,rifle,hunting,remote,shoot
+
+Article: 203b.txt
+deutsche,tci,atticus,bid,boerse,deutsche boerse
+
+Article: 203e.txt
+greer,housemates,big brother,brother,celebrity,playground
+
+Article: 203p.txt
+defra,outbreak,leigh,mouth,contractors,foot
+
+Article: 203s.txt
+mutu,juventus,bucharest,club,banned,chelsea
+
+Article: 203t.txt
+games,elspa,titles,copies,top,gangsters
+
+Article: 204b.txt
+budget,bush,deficit,proposals,president,congress
+
+Article: 204e.txt
+cosby,woman,comedian,allegations,lawyer,authorities
+
+Article: 204p.txt
+reoffending,prison,justice,jamieson,service,sps
+
+Article: 204s.txt
+uefa,pitches,artificial,grass,surfaces,luton
+
+Article: 204t.txt
+library,visitors,wireless,hotspot,study,british
+
+Article: 205b.txt
+orange,easymobile,easygroup,colour,easyjet,mobile
+
+Article: 205e.txt
+abc,fox,show,nbc,swap,rdf
+
+Article: 205p.txt
+archbishop,tutu,detained,unacceptable,terror,guantanamo
+
+Article: 205s.txt
+yeading,league,west,watford,cup,notts
+
+Article: 205t.txt
+service,broadband,stening,uk online,exchanges,telephone
+
+Article: 206b.txt
+standard life,bonus,life,insurer,profits,stock
+
+Article: 206e.txt
+osbournes,ozzy,osbourne,family,mtv,ozzy osbourne
+
+Article: 206p.txt
+blunkett,mr,grieve,blair,chairs,carpet
+
+Article: 206s.txt
+anelka,extension,football,city,real madrid,eighth
+
+Article: 206t.txt
+peer,brands,advertisers,edonkey,networks,ads
+
+Article: 207b.txt
+emi,music,emi music,gorillaz,albums,sales
+
+Article: 207e.txt
+pasquale,show,tv,mcfadden,kerry mcfadden,tony blackburn
+
+Article: 207p.txt
+election,february,speculation,poll,papers,labour
+
+Article: 207s.txt
+arnesen,santini,tottenham,sporting,frank arnesen,problems
+
+Article: 207t.txt
+computer,data,palmer,ontrack,rage,files
+
+Article: 208b.txt
+sina,shanda,stake,trading,portal,firm
+
+Article: 208e.txt
+duran,duran duran,album,bon,le bon,vh1
+
+Article: 208p.txt
+gurkhas,indonesia,aceh,relief,province,tsunami
+
+Article: 208s.txt
+souness,smith,walter,vogts,assistant,tommy burns
+
+Article: 208t.txt
+picture,mobile,phones,phone,camera,celebrities
+
+Article: 209b.txt
+glazer,united,club,proposal,mr,manchester united
+
+Article: 209e.txt
+stunt,nbc,eating,rats,show,aitken
+
+Article: 209p.txt
+palestinian,abbas,syria,israeli,peace,pa
+
+Article: 209s.txt
+mourinho,gallas,chelsea,arsenal,horse,dressing
+
+Article: 209t.txt
+fisher,tattoo,forehead,logo,name,advertising
+
+Article: 210b.txt
+imf,gold,g7,relief,reserves,debt
+
+Article: 210e.txt
+muslim,sky,series,muslims,episodes,broadcasting
+
+Article: 210p.txt
+wales,strike,civil,servants,jobs,civil service
+
+Article: 210s.txt
+tevez,corinthians,brazil,boca,argentina,tranquillity
+
+Article: 210t.txt
+virus,bofra,mail,machines,messages,infected
+
+Article: 211b.txt
+plasma,display,hitachi,fujitsu,televisions,panels
+
+Article: 211e.txt
+brookside,channel,redmond,creator,soap,culture
+
+Article: 211p.txt
+lord,lord woolf,woolf,inquiry,judge,lord chancellor
+
+Article: 211s.txt
+edu,sign,arsenal,wenger,midfielder,club
+
+Article: 211t.txt
+hosford,divide,digital,access,bt,report
+
+Article: 212b.txt
+rover,shanghai,shanghai automotive,mg,mg rover,longbridge
+
+Article: 212e.txt
+little britain,radio times,list,walliams,nighty night,bbc three
+
+Article: 212p.txt
+crosby,howard,party,mr,elections,iota
+
+Article: 212s.txt
+smith,vogts,scotland,scottish,ferguson,ibrox
+
+Article: 212t.txt
+bjorn,phone,ericsson,cameras,dr,mobile
+
+Article: 213b.txt
+greenspan,smith,adam smith,dr,lecture,kirkcaldy
+
+Article: 213e.txt
+families,angolan,angola,icrc,independence square,square
+
+Article: 213p.txt
+students,lib,fees,university,vote,dems
+
+Article: 213s.txt
+jansen,bowen,lorenzo,amoruso,cartilage,rovers
+
+Article: 213t.txt
+search,blinkx,ask jeeves,jeeves,ask,web
+
+Article: 214b.txt
+bdo,index,optimism,gdp,bdo stoy hayward,hayward
+
+Article: 214e.txt
+drama,supervolcano,bbc one,bbc,holocaust,adaptation
+
+Article: 214p.txt
+custody,vulnerable,prison,committee,mental,death
+
+Article: 214s.txt
+mansfield,scott,pilkington,orient,carlisle,barnard
+
+Article: 214t.txt
+lycos,spam,sites,screensaver,lycos europe,make love
+
+Article: 215b.txt
+firms,listings,sec,act,donaldson,foreign
+
+Article: 215e.txt
+south bank,award,soap,bank,coronation,coronation street
+
+Article: 215p.txt
+marry,sham,marriages,rimmer,marriage,rules
+
+Article: 215s.txt
+bwalya,zambia,angola,cautious,chipolopolo,lusaka
+
+Article: 215t.txt
+nem,digital,content,drm,media,commission
+
+Article: 216b.txt
+nissan,ghosn,shiga,renault,mr,charge
+
+Article: 216e.txt
+audience,housewives,channel,share,desperate housewives,january
+
+Article: 216p.txt
+evidence,solana,suspects,naive,phone,intercepts
+
+Article: 216s.txt
+spanish,rooney,spain,marca,england,english
+
+Article: 216t.txt
+tv,dvr,hanlon,definition,tivo,want
+
+Article: 217b.txt
+ukraine,yushchenko,eu,brussels,rybachuk,nato
+
+Article: 217e.txt
+baywatch,magazine,worst,tv,import,jerry
+
+Article: 217p.txt
+mock,schools,hansard society,elections,democracy,pupils
+
+Article: 217s.txt
+kerr,goal,duff,republic,brian kerr,frustrated
+
+Article: 217t.txt
+phishing,messagelabs,messages,attacks,spam,mail
+
+Article: 218b.txt
+absa,barclays,south africa,south,stake,earnings
+
+Article: 218e.txt
+stern,stations,show,satellite,sirius,citadel
+
+Article: 218p.txt
+blair,brown,mr,prime,minister,peston
+
+Article: 218s.txt
+mourinho,chelsea,arsenal,campbell,season,champions
+
+Article: 218t.txt
+persia,warrior within,prince,warrior,game,of time
+
+Article: 219b.txt
+borussia,dortmund,borussia dortmund,creditors,club,rescue
+
+Article: 219e.txt
+clark,american bandstand,american,host,stroke,abc
+
+Article: 219p.txt
+jamieson,clubs,ms,sectarianism,rangers,kind
+
+Article: 219s.txt
+hearts,cotonsport,oak,cameroon,final,scored
+
+Article: 219t.txt
+dvd,format,sony,hd,ray,toshiba
+
+Article: 220b.txt
+boerse,deutsche boerse,lse,deutsche,standard life,shareholders
+
+Article: 220e.txt
+interactive,nominations,guardian,awards,tv,coverage
+
+Article: 220p.txt
+asylum,country,clarke,immigration,system,home secretary
+
+Article: 220s.txt
+curbishley,jonatan,charlton,johansson,norwich,talk
+
+Article: 220t.txt
+larsson,drives,memory,obese,data,devices
+
+Article: 221b.txt
+bp,lord browne,oil,browne,profits,price
+
+Article: 221e.txt
+bets,big brother,brother,sensitive,william hill,eviction
+
+Article: 221p.txt
+lords,clarke,ruling,suspects,detentions,legislation
+
+Article: 221s.txt
+rangers,lennon,celtic,favourites,goals,henrik larsson
+
+Article: 221t.txt
+bandwidth,traffic,sandvine,halo,gaming,explosion
+
+Article: 222b.txt
+russia,exxon,oil,bp,resources,gold
+
+Article: 222e.txt
+carson,norfolk,school,johnny carson,nebraska,johnny
+
+Article: 222p.txt
+constitution,question,referendum,poll,vote,treaty
+
+Article: 222s.txt
+mcclaren,lazio,boro,zenden,goals,good
+
+Article: 222t.txt
+portable,devices,archos,media,content,video
+
+Article: 223b.txt
+wembley,blb,gaming,tracks,greyhound,rhode island
+
+Article: 223e.txt
+lush,ladbrokes,favourite,bushtucker,show,sheila
+
+Article: 223p.txt
+blair,party,kennedy,trust,wasted,lib
+
+Article: 223s.txt
+benitez,liverpool,win,important,deportivo,xabi
+
+Article: 223t.txt
+maps,respond,satellite,groups,wadis,darfur
+
+Article: 224b.txt
+glazer,club,manchester,united,manchester united,board
+
+Article: 224e.txt
+farrell,scrubs,appearance,zach braff,actor,stars
+
+Article: 224p.txt
+lords,law,laws,lord,trial,terror
+
+Article: 224s.txt
+lita,makofo,mckoy,pacquette,chorley,johnson
+
+Article: 224t.txt
+dvd,format,sony,hd,ray,toshiba
+
+Article: 225b.txt
+brc,sales,hawkins,december,like,high street
+
+Article: 225e.txt
+stallone,mccririck,big brother,brother,bez,lush
+
+Article: 225p.txt
+prime,mr,blair,chancellor,minister,brown
+
+Article: 225s.txt
+mcindoe,rigoglioso,daniel williams,hereford,penalty,mills
+
+Article: 225t.txt
+bjorn,phone,ericsson,cameras,dr,mobile
+
+Article: 226b.txt
+mcdonald,mtv,food,sponsor,warning,menu
+
+Article: 226e.txt
+fox,berman,daddy,shows,audience,reality
+
+Article: 226p.txt
+forgotten,plans,redwood,bureaucratic,quangos,taxes
+
+Article: 226s.txt
+wolves,hoddle,southampton,club,manager,unveiled
+
+Article: 226t.txt
+hosford,divide,digital,access,bt,report
+
+Article: 227b.txt
+tuc,submission,manufacturing,childcare,sector,wages
+
+Article: 227e.txt
+tarrant,station,george michael,christmas,london,hosting
+
+Article: 227p.txt
+cards,clarke,bill,rebellion,id,pause
+
+Article: 227s.txt
+wenger,lehmann,almunia,arsenal,rosenborg,keeper
+
+Article: 227t.txt
+spam,mails,software,security,goods,bsa
+
+Article: 228b.txt
+banks,sri lanka,lanka,sri,loans,bank
+
+Article: 228e.txt
+joy division,curtis,film,joy,division,widow
+
+Article: 228p.txt
+jewish,poster,mennear,labour,pigs,tory
+
+Article: 228s.txt
+houllier,liverpool,premiership,good,benitez,jose
+
+Article: 228t.txt
+hp,digital,fiorina,revolution,people,ms
+
+Article: 229b.txt
+glazer,united,proposal,club,mr,manchester united
+
+Article: 229e.txt
+bravery,top,sound,band,survey,rapper
+
+Article: 229p.txt
+custody,iraqi,mousa,human rights,jurisdiction,death
+
+Article: 229s.txt
+mcclaren,strikers,stewart,champions league,champions,goal
+
+Article: 229t.txt
+vehicles,transport,mobility,concept,toyota,passenger
+
+Article: 230b.txt
+yukos,sale,yugansk,gazprom,court,russian
+
+Article: 230e.txt
+aaliyah,blackground,blackground records,plane,claim,records
+
+Article: 230p.txt
+householders,police,intruders,cps,burglar,law
+
+Article: 230s.txt
+hitzlsperger,villa,thomas,committing,new deal,club
+
+Article: 230t.txt
+posters,campaign,ir,tfl,harker,hypertag
+
+Article: 231b.txt
+venezuela,foreign,alvarez,review,contracts,chavez
+
+Article: 231e.txt
+music,peel,radio,djs,one music,show
+
+Article: 231p.txt
+sentences,woolf,guilty,lord woolf,guidelines,sgc
+
+Article: 231s.txt
+mourinho,referee,referees,comments,barry,hackett
+
+Article: 231t.txt
+games,parents,manhunt,industry,cumberbatch,violence
+
+Article: 232b.txt
+brokers,fsa,commissions,insurance,lloyd,prettejohn
+
+Article: 232e.txt
+connick,broadway,connick jr,adler,score,musical
+
+Article: 232p.txt
+mayor,jewish,livingstone,ken,gavron,inappropriate
+
+Article: 232s.txt
+hoddle,wolves,southampton,contract,manager,glenn
+
+Article: 232t.txt
+search,enquiries,queries,dog,strange,engine
+
+Article: 233b.txt
+bat,saliva,desmoteplase,protein,euros,firm
+
+Article: 233e.txt
+elvis,birthday,jailhouse rock,jailhouse,single,fans
+
+Article: 233p.txt
+dca,information,bodies,freedom,guidance,act
+
+Article: 233s.txt
+redknapp,southampton,mandaric,portsmouth,wigley,saints
+
+Article: 233t.txt
+metal slug,slug,metal,scrolling,retro,offer
+
+Article: 234b.txt
+vodafone,japan,morrow,tsuda,customers,tetsuro tsusaka
+
+Article: 234e.txt
+elvis,number,charts,chart,scissor sisters,scissor
+
+Article: 234p.txt
+police,policing,blunkett,community,local,forces
+
+Article: 234s.txt
+millwall,charged,liverpool,fan,behaviour,failing
+
+Article: 234t.txt
+multimedia,celltick,messages,mms,phones,mobile
+
+Article: 235b.txt
+expectancy,ppi,pension,life,manual,worker
+
+Article: 235e.txt
+band,fightstar,busted,pop,simpson,rumours
+
+Article: 235p.txt
+walkington,party,mischief,lib,election,communications
+
+Article: 235s.txt
+wenger,ferguson,arsenal,game,football,saturday
+
+Article: 235t.txt
+online,shoppers,shopping,ebay,buying,presents
+
+Article: 236b.txt
+card,pin,fraud,cards,retail decisions,chip
+
+Article: 236e.txt
+kapranos,band,franz,franz ferdinand,ferdinand,art
+
+Article: 236p.txt
+cunningham,jack cunningham,labour,agriculture,blair,jack
+
+Article: 236s.txt
+gerrard,liverpool,benitez,champions league,champions,reds
+
+Article: 236t.txt
+google,books,libraries,library,oxford,michigan
+
+Article: 237b.txt
+britannia,members,share,qualify,windfall,profit
+
+Article: 237e.txt
+knight,gun,size,jama,deaths,eye
+
+Article: 237p.txt
+kilroy,asylum,silk,veritas,britain,immigration
+
+Article: 237s.txt
+juventus,bayern munich,bayern,munich,real madrid,milan
+
+Article: 237t.txt
+desktop,search,tool,microsoft,program,windows
+
+Article: 238b.txt
+schemes,ids,employers,salary,contributions,scheme
+
+Article: 238e.txt
+portishead,barrow,band,bristol,dummy,album
+
+Article: 238p.txt
+regiments,scottish regiments,scottish,labour,campaigners,scotland
+
+Article: 238s.txt
+ferguson,second,finished,fenerbahce,manager,turks
+
+Article: 238t.txt
+nintendo,console,ship,ds,psp,sony
+
+Article: 239b.txt
+housing,halifax,value,stock,private,price
+
+Article: 239e.txt
+fightstar,simpson,busted,band,warwick,charlie
+
+Article: 239p.txt
+csos,police,powers,officers,civilian,crime
+
+Article: 239s.txt
+beckham,real,relief,season,champions league,madrid
+
+Article: 239t.txt
+domain,names,icann,jobs,mobile,internet
+
+Article: 240b.txt
+bdo,index,optimism,gdp,bdo stoy hayward,hayward
+
+Article: 240e.txt
+single,presley,chemical brothers,fool,chart,chemical
+
+Article: 240p.txt
+betting,punters,exchanges,sports,corruption,cheating
+
+Article: 240s.txt
+rooney,devine,ronaldo,exeter,jones,scholes
+
+Article: 240t.txt
+hdtv,definition,tv,high,programmes,lines
+
+Article: 241b.txt
+g7,countries,poorest,debt,brown,finance
+
+Article: 241e.txt
+award,winners,poll winners concert,youssou,concert,the sage
+
+Article: 241p.txt
+councils,tax,services,mccabe,cosla,scotland
+
+Article: 241s.txt
+hamm,cubs,women,us women,joy fawcett,nomar garciaparra
+
+Article: 241t.txt
+bittorrent,movies,industry,trackers,mpaa,users
+
+Article: 242b.txt
+glazer,united,club,manchester united,manchester,bid
+
+Article: 242e.txt
+presley,kombou,pops,elvis,rock,jailhouse rock
+
+Article: 242p.txt
+information,shredding,information act,freedom,information commissioner,whitehall
+
+Article: 242s.txt
+wenger,almunia,arsenal,lehmann,goalkeeper,keeper
+
+Article: 242t.txt
+pc,forrester,pcs,markets,china,lenovo
+
+Article: 243b.txt
+barn,work,space,lighting,wireless,mains
+
+Article: 243e.txt
+u2,band,best,nrj,french,blue
+
+Article: 243p.txt
+fish,fishing,fisheries,finnie,peterhead,mps
+
+Article: 243s.txt
+gerrard,liverpool,parry,win,steven,reds
+
+Article: 243t.txt
+printers,high street,prints,snaps,street,printer
+
+Article: 244b.txt
+carnival,aurora,cruise,cruises,princess,limited
+
+Article: 244e.txt
+edwards,band,disappearance,manic street,preachers,guitarist
+
+Article: 244p.txt
+kelly,research,views,education,ms,stem
+
+Article: 244s.txt
+pearce,keegan,manager,city,job,assistant
+
+Article: 244t.txt
+ico,gaming,ps2,ds,wars,pc
+
+Article: 245b.txt
+budget,spending,cuts,federal,borrowing,bush
+
+Article: 245e.txt
+wilson,factory,raw,factory records,label,f4
+
+Article: 245p.txt
+regiments,regiment,army,super,army board,scottish
+
+Article: 245s.txt
+bomb,bernabeu,stadium,madrid,real,eta
+
+Article: 245t.txt
+bond,game,goldeneye,james bond,goldfinger,agent
+
+Article: 246b.txt
+ebbers,sullivan,mr,fraud,worldcom,coffee
+
+Article: 246e.txt
+sizzla,reggae,gay,lyrics,swearing,jamaica
+
+Article: 246p.txt
+university,education,areas,higher,students,fees
+
+Article: 246s.txt
+henry,arsenal,gudjohnsen,chelsea,lampard,almunia
+
+Article: 246t.txt
+asimo,robot,robots,run,humanoid,honda
+
+Article: 247b.txt
+renault,western europe,western,sales,outside,schweitzer
+
+Article: 247e.txt
+tour,spears,onyx hotel,aborted,knee,video
+
+Article: 247p.txt
+kennedy,temple,ethnic,terrorism,address,lib
+
+Article: 247s.txt
+butragueno,game,real,astiazaran,minutes,ronaldo
+
+Article: 247t.txt
+ds,adapter,nintendo,gameboy,handheld,media
+
+Article: 248b.txt
+house,prices,figures,slowdown,registry,land registry
+
+Article: 248e.txt
+reggae,gay,murder,industry,homophobic,stop murder music
+
+Article: 248p.txt
+blunkett,plain,david blunkett,terrorism,committed,speaking
+
+Article: 248s.txt
+kick,referees,henry,free,poll,clubs
+
+Article: 248t.txt
+apple,lawsuit,complaint,information,unidentified,leaks
+
+Article: 249b.txt
+bush,budget,spending,congress,deficit,administration
+
+Article: 249e.txt
+sensation,devon,soul,stone,charts,nominations
+
+Article: 249p.txt
+debate,blair,election,answer,blair tony blair,head
+
+Article: 249s.txt
+solskjaer,united,knee,ole gunnar solskjaer,cartilage,ole
+
+Article: 249t.txt
+entropia,virtual,gamers,deathifier,project entropia,land
+
+Article: 250b.txt
+lenovo,china,pc,ibm,hk,dell
+
+Article: 250e.txt
+tour,prince,madonna,album,musicology,elton john
+
+Article: 250p.txt
+issue,choice,election,mps,hunting,pensioners
+
+Article: 250s.txt
+dunne,keegan,city,weaver,commit,defender
+
+Article: 250t.txt
+spyware,microsoft,programs,windows,toolkit,users
+
+Article: 251b.txt
+mci,qwest,phone,worldcom,shares,bids
+
+Article: 251e.txt
+devon,muse,stone,band,best british,dominic howard
+
+Article: 251p.txt
+brown,newspapers,aid,prime,minister,blair
+
+Article: 251s.txt
+bates,leeds,club,takeover,krasner,lorimer
+
+Article: 251t.txt
+deaf,bsl,deaf people,relay,sign language,rnid
+
+Article: 252b.txt
+bt,ofcom,telecom,wholesale,access,broadband
+
+Article: 252e.txt
+mars,mantooth,girls,crue,motley,motley crue
+
+Article: 252p.txt
+book,brown,blair,stand,peston,mr
+
+Article: 252s.txt
+ferguson,united,chelsea,fulham,points,strike
+
+Article: 252t.txt
+virus,mail,zafi,infected,christmas,poses
+
+Article: 253b.txt
+jobs,labor department,labor,growth,moderate,rate
+
+Article: 253e.txt
+song,angels,best,robbie,music,years
+
+Article: 253p.txt
+blair,brown,mr,prime,minister,peston
+
+Article: 253s.txt
+rangers,novo,camara,miss,malcolm,celtic
+
+Article: 253t.txt
+lifts,tower,tfc,speed,guinness,elevators
+
+Article: 254b.txt
+news corp,games,video,corp,chernin,ea
+
+Article: 254e.txt
+jamelia,song,single,mobo,superstar,music
+
+Article: 254p.txt
+men,brown,election,westminster,rivalry,rift
+
+Article: 254s.txt
+anelka,club,wardle,nicolas,nicolas anelka,bid
+
+Article: 254t.txt
+broadband,bt,line,uk,phone,lines
+
+Article: 255b.txt
+pension,pensions,retirement,pensions commission,ppi,uk
+
+Article: 255e.txt
+kasabian,meighan,band,music,rock,rutland
+
+Article: 255p.txt
+brown,blair,mr,labour,gordon brown,election
+
+Article: 255s.txt
+ferguson,united,chelsea,fulham,points,strike
+
+Article: 255t.txt
+bittorrent,site,suprnova,peer,shared,legal
+
+Article: 256b.txt
+singapore,growth,quarter,economy,fourth,electronics
+
+Article: 256e.txt
+urban,music,joss,joss stone,black,stone
+
+Article: 256p.txt
+blair,labour,brown,mr,election,unified
+
+Article: 256s.txt
+weir,everton,cools,david weir,laurels,suspensions
+
+Article: 256t.txt
+gameboyzz,gameboyzz orchestra,gameboyzz orchestra project,orchestra,project,kujda
+
+Article: 257b.txt
+lira,turkish,turkey,currency,economy,zeros
+
+Article: 257e.txt
+hendrix,seattle,museum,guitarist,jimi hendrix,house
+
+Article: 257p.txt
+brown,mr,blair,labour,prescott,party
+
+Article: 257s.txt
+spain,aragones,racism,federation,motivate,comments
+
+Article: 257t.txt
+santy,google,worm,phpbb,program,sites
+
+Article: 258b.txt
+ministry,korea,the ministry,economy,construction,south korea
+
+Article: 258e.txt
+probation,assault,love,drug,ms,singer
+
+Article: 258p.txt
+election,labour,squabbling,prime,brown,minister
+
+Article: 258s.txt
+spain,aragones,racism,federation,motivate,comments
+
+Article: 258t.txt
+patenting,eu,directive,patent,law,software
+
+Article: 259b.txt
+latin,latin america,exports,venezuela,america,iadb
+
+Article: 259e.txt
+west,hop,hip,album,rapper,college dropout
+
+Article: 259p.txt
+mackenzie,lim,panel,mr,candidates,carman
+
+Article: 259s.txt
+benitez,dudek,blame,jerzy,liverpool,draw
+
+Article: 259t.txt
+apple,bittorrent,tiger,action,products,apple developer
+
+Article: 260b.txt
+tourism,reconstruction,economic,stock,shaheed,baht
+
+Article: 260e.txt
+aguilera,bratman,pop,prophet,christina aguilera,singer
+
+Article: 260p.txt
+mr,brown,prescott,labour,prime,minister
+
+Article: 260s.txt
+bellamy,souness,club,shepherd,newcastle,graeme
+
+Article: 260t.txt
+mac,ipod,apple,jobs,mac mini,mini
+
+Article: 261b.txt
+markets,stock,disasters,insurance,disaster,global
+
+Article: 261e.txt
+number,album,brits,chart,elvis,singles chart
+
+Article: 261p.txt
+labour,milburn,prescott,mr,brown,poster
+
+Article: 261s.txt
+mcclaren,partizan,lazio,fantastic,uefa,draw
+
+Article: 261t.txt
+speegle,search,renton,cec,blind,site
+
+Article: 262b.txt
+shares,reinsurers,asia,impact,swiss re,thai
+
+Article: 262e.txt
+band,u2,bono,album,rock,mcguinness
+
+Article: 262p.txt
+blair,mr,chancellor,brown,peston,prime
+
+Article: 262s.txt
+spurs,tottenham,iceland,talent,emil hallfredsson,fh hafnarfjordur
+
+Article: 262t.txt
+broadband,fcc,june,americans,lines,connections
+
+Article: 263b.txt
+compensation,fsa,investors,ombudsman,split,firms
+
+Article: 263e.txt
+charles,jazz,ray charles,ray,influence,artists
+
+Article: 263p.txt
+confess,prisoners,arms,sheriff,argument,incentives
+
+Article: 263s.txt
+mcleish,blew,criticism,goal,auxerre,amateurish
+
+Article: 263t.txt
+music,service,napster,subscription,wippit,offers
+
+Article: 264b.txt
+lse,euronext,boerse,deutsche boerse,deutsche,bid
+
+Article: 264e.txt
+best,album,grammy,vocal,song,keys
+
+Article: 264p.txt
+new labour,labour,manifesto,election,speech,chancellor
+
+Article: 264s.txt
+villa,mellberg,olof,steve,aston villa,aston
+
+Article: 264t.txt
+broadband,bt,loop,loop unbundling,unbundling,operators
+
+Article: 265b.txt
+marsh,insurance,spitzer,sec,transactions,inquiry
+
+Article: 265e.txt
+abba,musical,faltskog,swedish,premiere,band
+
+Article: 265p.txt
+plans,forgotten,redwood,bureaucratic,quangos,taxes
+
+Article: 265s.txt
+gronkjaer,madrid,move,toni munoz,spent,birmingham city
+
+Article: 265t.txt
+mobile,mms,gprs,mda,chat,phones
+
+Article: 266b.txt
+tax,authors,yukos,sibneft,russian,enforcement
+
+Article: 266e.txt
+download,jamieson,independent,bpi,singles,music
+
+Article: 266p.txt
+succession,bill,throne,katwala,crown,overdue
+
+Article: 266s.txt
+morientes,liverpool,keen,benitez,bid,real
+
+Article: 266t.txt
+blinx,game,characters,feline,platform,factions
+
+Article: 267b.txt
+nasdaq,shares,stock,fortunes,sale,boom
+
+Article: 267e.txt
+festival,event,organisers,acts,balado,fighters
+
+Article: 267p.txt
+ukip,morris,tories,election,kilroy,eu
+
+Article: 267s.txt
+robertson,tynecastle,club,players,hearts,murrayfield
+
+Article: 267t.txt
+search,google,web,brunini,yahoo,queries
+
+Article: 268b.txt
+gifts,parents,relatives,children,tax,account
+
+Article: 268e.txt
+osbourne,sabbath,black sabbath,rock,kerrang,band
+
+Article: 268p.txt
+milburn,labour,new labour,reforms,hospitals,incapacity
+
+Article: 268s.txt
+ashdown,henry,shot,fuller,arsenal,pompey
+
+Article: 268t.txt
+patents,ibm,software,intellectual property,intellectual,source
+
+Article: 269b.txt
+air china,china,air,lse,listing,london
+
+Article: 269e.txt
+film,michael,pop,chronicles,berlin film festival,berlin
+
+Article: 269p.txt
+pupils,survey,little,questioned,dems,lib dems
+
+Article: 269s.txt
+bowyer,baros,bramble,kluivert,newcastle,mellor
+
+Article: 269t.txt
+search,desktop,files,searching,yahoo,web
+
+Article: 270b.txt
+crude,oil,stocks,winter,prices,heating
+
+Article: 270e.txt
+hendrix,guitar,jimi hendrix,fender stratocaster,stratocaster,fender
+
+Article: 270p.txt
+tax,robert jackson,cuts,howard,jackson,robert
+
+Article: 270s.txt
+strachan,southampton,redknapp,pompey,memories,manager
+
+Article: 270t.txt
+attacks,traffic,sites,seagrave,net,data
+
+Article: 271b.txt
+listing,dein,stadium,clubs,club,saturation
+
+Article: 271e.txt
+music,renner,industry,piracy,germany,copying
+
+Article: 271p.txt
+howard,cuts,taxes,borrowing,savings,frontline
+
+Article: 271s.txt
+fifa,henry,prinz,blatter,hamm,award
+
+Article: 271t.txt
+jacobsen,mobile,secret service,dobrow,secret,computer
+
+Article: 272b.txt
+silva,da,brazil,economic,brazilian,inflation
+
+Article: 272e.txt
+musical,spend,thoday,wonderful life,wonderful,van doren stern
+
+Article: 272p.txt
+party,election,kennedy,lib,opposition,tax
+
+Article: 272s.txt
+morientes,liverpool,anelka,madrid,benitez,rafa benitez
+
+Article: 272t.txt
+worm,cellery,tetris,virus,users,networks
+
+Article: 273b.txt
+dollar,greenspan,gap,deficit,g20,alan greenspan
+
+Article: 273e.txt
+viotti,la,fenice,la fenice,opera,massenet
+
+Article: 273p.txt
+lord chancellor,lord,chancellor,lords,leslie,government
+
+Article: 273s.txt
+savage,birmingham,blackburn,brady,fans,blues
+
+Article: 273t.txt
+texas,spammers,messages,spam,lawsuit,pitylak
+
+Article: 274b.txt
+google,shares,search,selling,stock,market
+
+Article: 274e.txt
+deeley,cd,presenter,morning,presenters,host
+
+Article: 274p.txt
+brown,cynicism,politics,world,eyes,memory
+
+Article: 274s.txt
+gerrard,anfield,benitez,stay,spanish,liverpool
+
+Article: 274t.txt
+tour,tournament,kings,prize,cpl,foster
+
+Article: 275b.txt
+jobless,unemployment,unemployed,government,figures,reforms
+
+Article: 275e.txt
+best,theatre,mary poppins,poppins,musical,producers
+
+Article: 275p.txt
+tax,cuts,tory,howard,election,tories
+
+Article: 275s.txt
+beckham,real madrid,madrid,real,argentina,la
+
+Article: 275t.txt
+uwb,ofcom,technology,adoption,data,ubisense
+
+Article: 276b.txt
+ntpc,india,power,flotation,debut,largest
+
+Article: 276e.txt
+doherty,babyshambles,libertines,guitarist,bail,singer
+
+Article: 276p.txt
+bannatyne,brown,labour,blair,mr,cook
+
+Article: 276s.txt
+juninho,celtic,hassell,sanchez,veracruz,destination
+
+Article: 276t.txt
+ea,games,video,florin,bolz,game
+
+Article: 277b.txt
+turkey,eu,economic,imf,euros,gross
+
+Article: 277e.txt
+austria,trapp,von,hammerstein,musical,song
+
+Article: 277p.txt
+labour,howard,tax,taxes,election,tory
+
+Article: 277s.txt
+bulgaria,fixture,celtic,awkward,prerogative,bulgarian
+
+Article: 277t.txt
+tansley,motorsport,disabled,gear,endeavour,car
+
+Article: 278b.txt
+sbc,takeover,shareholders,alexander graham bell,network,efficiencies
+
+Article: 278e.txt
+chart,bpi,occ,download,singles,official
+
+Article: 278p.txt
+labour,election,new,parties,new labour,headquarters
+
+Article: 278s.txt
+pompey,robben,shot,hislop,cole,zeeuw
+
+Article: 278t.txt
+pictures,photos,storage,photo,prints,digital
+
+Article: 279b.txt
+lse,boerse,deutsche boerse,frankfurt,deutsche,talks
+
+Article: 279e.txt
+murder,jail,rapper,video,tru,rakosky
+
+Article: 279p.txt
+human rights,rights,human,khan,amnesty,movement
+
+Article: 279s.txt
+babayaro,souness,newcastle,chelsea,babayaro newcastle,reopens
+
+Article: 279t.txt
+gracenote,music,voice,control,media,technology
+
+Article: 280b.txt
+american express,aefa,express,american,financial,spin
+
+Article: 280e.txt
+conti,orchestra,show,director,oscars,music
+
+Article: 280p.txt
+blair,bush,mr,military,prime,minister
+
+Article: 280s.txt
+mourinho,arsenal,chelsea,jose mourinho,jose,arsenal chelsea
+
+Article: 280t.txt
+telewest,video,pvr,ntl,demand,programmes
+
+Article: 281b.txt
+axa,bonus,policies,stock,sun life,axa sun life
+
+Article: 281e.txt
+jonesboro,arkansas,rodgers,boycott,church,state university
+
+Article: 281p.txt
+ukip,kilroy,silk,party,mr,knapman
+
+Article: 281s.txt
+wenger,newcastle,fulham,henry,season,matters
+
+Article: 281t.txt
+virus,hogan,viruses,bot,writers,phishing
+
+Article: 282b.txt
+three gorges,dam,construction,projects,xiluodu,xiluodu dam
+
+Article: 282e.txt
+cent,game,interview,feud,rap,nas
+
+Article: 282p.txt
+cuts,tory,blair,spending,party,labour
+
+Article: 282s.txt
+ferguson,giggs,villa,roy,tremendous,lots
+
+Article: 282t.txt
+labs,ideas,technology,concepts,ahern,tech
+
+Article: 283b.txt
+japanese,japan,recovery,confidence,amidst,pessimism
+
+Article: 283e.txt
+festival,prodigy,chemical brothers,park,chemical,brothers
+
+Article: 283p.txt
+kennedy,election,lib,tax,taxes,services
+
+Article: 283s.txt
+goal,referee,line,mendes,jol,seconds
+
+Article: 283t.txt
+purushotma,sims,learning,language,languages,game
+
+Article: 284b.txt
+hadi,iraqi,iraq,blackwatch,alexander,iraqis
+
+Article: 284e.txt
+chart,show,ross,rundown,radio,king
+
+Article: 284p.txt
+party,election,tax,labour,kennedy,conservatives
+
+Article: 284s.txt
+hodgson,half,penalties,england,kicking,france
+
+Article: 284t.txt
+itunes,users,playlist,apple,security,upgrade
+
+Article: 285b.txt
+lisbon,eu,lisbon agenda,economic,commission,economy
+
+Article: 285e.txt
+cent,charts,chart,top,singles,album
+
+Article: 285p.txt
+hague,ambition,mr,party,front,bench
+
+Article: 285s.txt
+bath,england,vickery,barkley,injury,six nations
+
+Article: 285t.txt
+consumers,systems,firms,drm,content,files
+
+Article: 286b.txt
+china,breakneck,economy,growth,impetus,industrial
+
+Article: 286e.txt
+goodrem,black eyed peas,best,green,missy higgins,australian idol
+
+Article: 286p.txt
+houston,ukip,suspended,candidate,mr,views
+
+Article: 286s.txt
+yachvili,france,england,half,twickenham,pelous
+
+Article: 286t.txt
+p2p,networks,file,content,sharing,music
+
+Article: 287b.txt
+japan,toshitsune,japanese,wood,workforce,gdp
+
+Article: 287e.txt
+glasgow,rem,concert,gig,secc,tickets
+
+Article: 287p.txt
+speaker,lords,boothroyd,lord chancellor,lord,chancellor
+
+Article: 287s.txt
+stade,stade toulousain,biarritz,jauzion,laporte,laharrague
+
+Article: 287t.txt
+text,mda,mobiles,mobile,texting,total
+
+Article: 288b.txt
+ge,nbc,universal,immelt,growth,excellent
+
+Article: 288e.txt
+cent,game,feud,rapper,ja rule,ja
+
+Article: 288p.txt
+ukip,hockney,kilroy,silk,houston,mr
+
+Article: 288s.txt
+lewsey,ball,try,disallowed,kaplan,turnover
+
+Article: 288t.txt
+pacific assault,pacific,pc,duty,assault,wartime
+
+Article: 289b.txt
+bcc,manufacturing,sector,exports,found,confidence
+
+Article: 289e.txt
+musicians,mccune,visas,visa,us embassy,mmf
+
+Article: 289p.txt
+kinnock,lord kinnock,lords,labour,house,lord
+
+Article: 289s.txt
+robinson,cueto,referee,josh lewsey,josh,lewsey
+
+Article: 289t.txt
+vodafone,mobile,cellnet,phones,mobiles,phone
+
+Article: 290b.txt
+rates,bank,manufacturing,consumer,economy,interest
+
+Article: 290e.txt
+music choice,funeral,song,angels,favoured,choice
+
+Article: 290p.txt
+forsyth,threat,terrorists,ira,agree,government
+
+Article: 290s.txt
+england,ireland,try,gara,sullivan,victory
+
+Article: 290t.txt
+cabir,phone,bluetooth,symbian,strains,range
+
+Article: 291b.txt
+tobacco,smoking,ruling,altria,racketeering,government
+
+Article: 291e.txt
+band,u2,rock,springsteen,clapton,roll
+
+Article: 291p.txt
+tgwu,amicus,merger,unions,union,meetings
+
+Article: 291s.txt
+wales,bennett,thomas,captain,ruthless,half
+
+Article: 291t.txt
+technologies,cea,watch,video,devices,content
+
+Article: 292b.txt
+growth,steady,economy,job,showing,jobs
+
+Article: 292e.txt
+billy,daldry,actors,preview,schedule,billy elliot
+
+Article: 292p.txt
+ukip,kilroy,silk,meps,eu,mep
+
+Article: 292s.txt
+wales,grand slam,character,slam,got,win
+
+Article: 292t.txt
+spyware,microsoft,virus,software,anti,programs
+
+Article: 293b.txt
+glazer,united,bid,club,board,takeover
+
+Article: 293e.txt
+smernicki,brown,singer,san francisco,francisco,ian brown
+
+Article: 293p.txt
+kilroy,silk,ukip,party,veritas,parties
+
+Article: 293s.txt
+walder,tait,mayerhofler,kiole,narraway,newcastle
+
+Article: 293t.txt
+exeem,bittorrent,file,sloncek,suprnova,files
+
+Article: 294b.txt
+bush,kerry,prices,closed,economic,candidates
+
+Article: 294e.txt
+musical,premiere,theatre,tolkien,toronto,wallace
+
+Article: 294p.txt
+unions,choice,workers,pension,government,strike
+
+Article: 294s.txt
+mapletoft,irish,wasps,london irish,van,rees
+
+Article: 294t.txt
+dvd,ray,dvds,next generation,games,hd
+
+Article: 295b.txt
+tankan,survey,manufacturers,economy,september,japanese
+
+Article: 295e.txt
+dame julie,julie,dame,poppins,musical,choreography
+
+Article: 295p.txt
+blair,labour,serving,longest,lord,mr
+
+Article: 295s.txt
+rugby,glasgow rugby,edinburgh rugby,glasgow,edinburgh,murray
+
+Article: 295t.txt
+hp,digital,fiorina,revolution,people,ms
+
+Article: 296b.txt
+bangladesh,wto,christian aid,countries,workers,textile
+
+Article: 296e.txt
+band,lightbody,snow patrol,patrol,snow,mcclelland
+
+Article: 296p.txt
+archer,lord archer,lord,vindictiveness,fox,dr
+
+Article: 296s.txt
+laporte,france,french,twickenham,team,fear
+
+Article: 296t.txt
+show,ces,consumer,devices,electronics,portable
+
+Article: 297b.txt
+bank,abn,abn amro,amro,jobs,credit suisse
+
+Article: 297e.txt
+fockers,takings,box office,jim carrey,carrey,box
+
+Article: 297p.txt
+campbell,mandelson,bbc,labour,campaigning,dirty
+
+Article: 297s.txt
+davies,ospreys,gloucester,wales,neath,hooker
+
+Article: 297t.txt
+mac,ipod,apple,jobs,mac mini,mini
+
+Article: 298b.txt
+fannie,mae,fannie mae,freddie mac,freddie,mac
+
+Article: 298e.txt
+marvel,spider,lee,profits,man,hulk
+
+Article: 298p.txt
+donations,parties,cap,political,commission,elections
+
+Article: 298s.txt
+williams,officials,matt,decisions,matt williams,nigel williams
+
+Article: 298t.txt
+music,service,napster,subscription,wippit,offers
+
+Article: 299b.txt
+yukos,russian,bankruptcy,russia,auction,tax
+
+Article: 299e.txt
+fry,adams,guide,malkovich,arthur dent,hitchhiker
+
+Article: 299p.txt
+id,cards,introduce,tories,bill,sources
+
+Article: 299s.txt
+tait,robinson,noon,england,likely,gavin henson
+
+Article: 299t.txt
+attacks,traffic,sites,seagrave,net,data
+
+Article: 300b.txt
+johnson,guidant,defibrillators,analysts,drug,heart
+
+Article: 300e.txt
+bollywood,kisna,bernath,adarsh,indian,film
+
+Article: 300p.txt
+id,cards,howard,shadow,police,plans
+
+Article: 300s.txt
+bell,england,bath,barkley,uncapped,sheridan
+
+Article: 300t.txt
+mac mini,mac,mini,apple,fogg,computer
+
+Article: 301b.txt
+libya,assets,central bank,lockerbie,tripoli,central
+
+Article: 301e.txt
+sundance,festival,kudrow,brosnan,comedy,keanu reeves
+
+Article: 301p.txt
+tax,lib,kennedy,dems,lib dems,taxes
+
+Article: 301s.txt
+half,sullivan,peter stringer,italy,stringer,tough
+
+Article: 301t.txt
+mac,mac mini,pc,machine,mini,burner
+
+Article: 302b.txt
+phytopharm,unilever,hoodia,cactus,slimming,pfizer
+
+Article: 302e.txt
+charlotte,film,voice,roberts,pig,spider
+
+Article: 302p.txt
+galloway,bethnal green,stooge,green,mp,constituency
+
+Article: 302s.txt
+italy,ireland,gara,murphy,try,stringer
+
+Article: 302t.txt
+gracenote,music,voice,control,media,technology
+
+Article: 303b.txt
+varig,airline,brazil,government,intervention,wilson
+
+Article: 303e.txt
+films,uk,film,production,uk film,drop
+
+Article: 303p.txt
+sir edward,thorpe,edward,sir,coalition,colleagues
+
+Article: 303s.txt
+jones,henson,wales,gavin,england,cardiff
+
+Article: 303t.txt
+peer,copyright,piracy,raids,men,direct connect
+
+Article: 304b.txt
+bombardier,tellier,canadian,restructuring,aircraft,train
+
+Article: 304e.txt
+paver,wolf,book,wolf brother,forest,michelle paver
+
+Article: 304p.txt
+ukip,outspent,campaign,labour,party,buying
+
+Article: 304s.txt
+wales,henson,kicker,jones,england,parker
+
+Article: 304t.txt
+consumers,systems,firms,drm,content,files
+
+Article: 305b.txt
+lula,bankruptcy,creditors,workers,adriano,brazil
+
+Article: 305e.txt
+lee,stan,stan lee,marvel,comic,comics
+
+Article: 305p.txt
+milburn,labour,campaign,election,mr,bus
+
+Article: 305s.txt
+kirwan,troncon,italy,orquera,half,defence
+
+Article: 305t.txt
+visual,radio,visual radio,station,listeners,handset
+
+Article: 306b.txt
+sales,retail,november,shoppers,high street,ons
+
+Article: 306e.txt
+festival,bangkok,prater,disaster,film,thai
+
+Article: 306p.txt
+campbell,jowell,alastair,campaign,election,labour
+
+Article: 306s.txt
+betsen,serge,laporte,france,jimmy marlu,nicolas mas
+
+Article: 306t.txt
+hd,tuffy,games,consoles,hdtv,tv
+
+Article: 307b.txt
+cairn,gammell,oil,barrels,fields,shares
+
+Article: 307e.txt
+rowlands,carry,patsy rowlands,theatre,scholarship,appeared
+
+Article: 307p.txt
+jackson,blair,mp,mr,labour,conservative
+
+Article: 307s.txt
+grewcock,ruddock,clumsy,ruck,peel,wales
+
+Article: 307t.txt
+recycling,petrol,old,lead,recycled,products
+
+Article: 308b.txt
+eads,camus,forgeard,french,mr,lagardere
+
+Article: 308e.txt
+tautou,actress,amelie,ron howard,jeunet,vinci
+
+Article: 308p.txt
+meyer,sir anthony,stalking,eton,horse,anthony
+
+Article: 308s.txt
+lions,henson,good,white,italy,player
+
+Article: 308t.txt
+windows,security,software,microsoft,pcs,pirated
+
+Article: 309b.txt
+drug,iressa,patients,tarceva,astrazeneca,crestor
+
+Article: 309e.txt
+bangkok,sea inside,sea,bangkok international film festival,festival,inside
+
+Article: 309p.txt
+mock,elections,young people,electoral commission,olds,electoral
+
+Article: 309s.txt
+bruising,ball,bit,scores,territory,game
+
+Article: 309t.txt
+machines,armes,consoles,developers,nintendo,sony
+
+Article: 310b.txt
+nike,athletic,period,reported,quarter,growth
+
+Article: 310e.txt
+blackadder,series,millennium,comeback,robinson,trench
+
+Article: 310p.txt
+speaker,chamber,blackberries,pager,debates,commons
+
+Article: 310s.txt
+neath,swansea,cardiff,newport,thomas,jones
+
+Article: 310t.txt
+opera,browser,voice,pages,hanson,available
+
+Article: 311b.txt
+disasters,swiss re,natural,claims,catastrophes,typhoons
+
+Article: 311e.txt
+corbett,ronnies,barker,tv,victoria wood,david jason
+
+Article: 311p.txt
+workers,pension,prescott,unions,choice,government
+
+Article: 311s.txt
+gara,penalty,paterson,scotland,ireland,corner
+
+Article: 311t.txt
+games,mobile,game,play,titles,handsets
+
+Article: 312b.txt
+parmalat,banks,italian,institutions,company,financial
+
+Article: 312e.txt
+perry,mad,woman,diary,black,smith
+
+Article: 312p.txt
+pension,workers,prescott,unions,choice,unison
+
+Article: 312s.txt
+williams,henson,wales,shane williams,jones,shane
+
+Article: 312t.txt
+hop,millan,hip,spanish,rap,com
+
+Article: 313b.txt
+iraq,oil,petrel,contract,oil ministry,field
+
+Article: 313e.txt
+commissioning,comedy,departments,daytime,changes,programmes
+
+Article: 313p.txt
+pension,lishman,pensions,older,election,vote
+
+Article: 313s.txt
+white,head,tight,leicester,england,form
+
+Article: 313t.txt
+definition,dvd,dean,dvds,high,master
+
+Article: 314b.txt
+yukos,baikal,gazprom,auction,russian,yugansk
+
+Article: 314e.txt
+academy,awards,war,award,capra,oscar
+
+Article: 314p.txt
+blair,answer,trust,integrity,things,people
+
+Article: 314s.txt
+italy,ireland,gara,murphy,try,stringer
+
+Article: 314t.txt
+email systems,email,spam,systems,mail,mails
+
+Article: 315b.txt
+venture,united,mallya,kingfisher,stake,beer
+
+Article: 315e.txt
+hoffman,fockers,film,craphouse,meet,spark
+
+Article: 315p.txt
+smith,csa,departure,doug,mr,pensions
+
+Article: 315s.txt
+england,bell,barkley,sheridan,vickery,gloucester
+
+Article: 315t.txt
+site,dec,mail,tsunami,sanders,fake
+
+Article: 316b.txt
+lse,euronext,boerse,exchange,bid,seifert
+
+Article: 316e.txt
+depp,burton,film,tim burton,barrie,role
+
+Article: 316p.txt
+jewish,blair,mr,howard,livingstone,attack
+
+Article: 316s.txt
+ruddock,players,wales,dragons,bbc wales sport,bbc wales
+
+Article: 316t.txt
+net,security,programs,women,goosens,spyware
+
+Article: 317b.txt
+shoppers,christmas,shopping,sales,centre,saturday
+
+Article: 317e.txt
+meltdown,festival,patti,patti smith,morrissey,punk
+
+Article: 317p.txt
+tax,council,pensioners,say,bills,local
+
+Article: 317s.txt
+biarritz,paseo,munster,heineken cup,heineken,cup
+
+Article: 317t.txt
+sony,console,gaming,ds,psp,units
+
+Article: 318b.txt
+gazprom,yukos,yuganskneftegas,baikal,moscow,russia
+
+Article: 318e.txt
+roxy,music,supergrass,ferry,wight,idlewild
+
+Article: 318p.txt
+ethnic,minority,shortlists,minorities,black,all black
+
+Article: 318s.txt
+coach,williams,quit,murrayfield,scotland,possibility
+
+Article: 318t.txt
+jeeves,bloglines,ask jeeves,ask,lanzone,blogs
+
+Article: 319b.txt
+lse,euronext,boerse,deutsche boerse,deutsche,offer
+
+Article: 319e.txt
+fuller,entertainment,idol,presley,sillerman,cfx
+
+Article: 319p.txt
+lords,mscps,chamber,mps,draft,consensus
+
+Article: 319s.txt
+pountney,ban,northampton,referee,guilty,areas
+
+Article: 319t.txt
+cell,technology,processor,sony,computer,intel
+
+Article: 320b.txt
+wto,membership,afghanistan,iran,application,trade
+
+Article: 320e.txt
+holiff,canadian,johnny cash,cash,johnny,manager
+
+Article: 320p.txt
+register,hague,paid,salary,speeches,secretary
+
+Article: 320s.txt
+wales,france,jones,thomas,laharrague,jauzion
+
+Article: 320t.txt
+cell,chip,processor,playstation,intel,chips
+
+Article: 321b.txt
+diageo,chalone,wine,turnover,diageo north america,estate wines
+
+Article: 321e.txt
+music,sales,albums,piracy,uk,jameson
+
+Article: 321p.txt
+mock,schools,hansard society,elections,democracy,pupils
+
+Article: 321s.txt
+brennan,woodward,players,toulouse,trevor,lions
+
+Article: 321t.txt
+rfid,tags,consumers,survey,vetham,capgemini
+
+Article: 322b.txt
+deflation,takenaka,fiscal,economic,japan,cpi
+
+Article: 322e.txt
+pixies,iron maiden,iron,reading,foo fighters,fighters
+
+Article: 322p.txt
+donations,party,parties,sum,chests,gifts
+
+Article: 322s.txt
+kirwan,scotland,simon,taylor,dal maso,bergamasco
+
+Article: 322t.txt
+tv,services,mobiles,mobile,broadcasting,music
+
+Article: 323b.txt
+cml,mortgage,lending,property,rightmove,market
+
+Article: 323e.txt
+nominated,film,nomination,nominations,staunton,leigh
+
+Article: 323p.txt
+turnout,politics,voter,kennedy,cook,inquiry
+
+Article: 323s.txt
+england,robinson,dublin,ireland,game,side
+
+Article: 323t.txt
+wong,blind,colour,software,student,maps
+
+Article: 324b.txt
+yukos,baikal,auction,yuganskneftegas,sale,russian
+
+Article: 324e.txt
+moreno,sandino,actresses,oscar,film,academy
+
+Article: 324p.txt
+goldsmith,lord goldsmith,lord,advice,sands,attorney
+
+Article: 324s.txt
+saracens,raiwalui,mcgee,kalman,headingley,ibanez
+
+Article: 324t.txt
+apple,eff,journalists,sources,reporters,information
+
+Article: 325b.txt
+independent,jagran,newspaper,circulation,independent news,group
+
+Article: 325e.txt
+bening,role,award,film,opposite,oscar
+
+Article: 325p.txt
+ukip,party,hockney,veritas,seats,gla
+
+Article: 325s.txt
+collier,rhys jones,wigglesworth,rhys,jones,payne
+
+Article: 325t.txt
+sonaptic,sound,mobile,audio,technology,ear
+
+Article: 326b.txt
+mae,fannie mae,fannie,mortgage,raines,restate
+
+Article: 326e.txt
+film,fahrenheit,documentary,dams,contentious,moore
+
+Article: 326p.txt
+prime,minister,tories,politics,playing,election
+
+Article: 326s.txt
+robinson,mathew,england,team,wales,against wales
+
+Article: 326t.txt
+dvd,ripguard,macrovision,copy,dvds,ripping
+
+Article: 327b.txt
+gw,pharma,gw pharma,cannabis,sativex,canada
+
+Article: 327e.txt
+kidman,paparazzi,sydney,photographers,fawcett,mcdonald
+
+Article: 327p.txt
+answer,goldsmith,lord,advice,lord goldsmith,summary
+
+Article: 327s.txt
+sella,michalak,delaigue,laporte,france,game
+
+Article: 327t.txt
+mp3,players,survey,americans,aged,american life project
+
+Article: 328b.txt
+deficit,bush,budget,dollar,federal,mr
+
+Article: 328e.txt
+william hill,bookmakers,best,hill,favourite,aviator
+
+Article: 328p.txt
+answer,lord,goldsmith,lord goldsmith,summary,attorney
+
+Article: 328s.txt
+umaga,lions,hemisphere,woodward,zealand,new zealand
+
+Article: 328t.txt
+danton,pc pro,supplier,providers,pro,fed
+
+Article: 329b.txt
+prices,surveyors,rics,surveyor,chartered,sales
+
+Article: 329e.txt
+festival,gogh,van gogh,submission,van,film
+
+Article: 329p.txt
+crosby,howard,party,mr,elections,iota
+
+Article: 329s.txt
+umaga,lions,fearsome,hemisphere,woodward,zealand
+
+Article: 329t.txt
+silicon,light,laser,paniccia,intel,dr
+
+Article: 330b.txt
+argentina,creditors,crisis,valentine,baez,argentine
+
+Article: 330e.txt
+douglas,india,indian,adventure,star,train
+
+Article: 330p.txt
+blackpool,manchester,conference,party,bournemouth,labour
+
+Article: 330s.txt
+campese,england,whingeing,robinson,coach,tournament
+
+Article: 330t.txt
+bill,software,european,european parliament,law,eu
+
+Article: 331b.txt
+disney,directors,sec,bowers,bryson,shareholders
+
+Article: 331e.txt
+film,winner,award,ross,hero,return
+
+Article: 331p.txt
+poster,labour,image,howard,hypnotism,jewish
+
+Article: 331s.txt
+sa,nz,aus,wales,woodward,samoa
+
+Article: 331t.txt
+linux,ibm,software,workplace,programs,source
+
+Article: 332b.txt
+yukos,rosneft,gazprom,auction,baikal,putin
+
+Article: 332e.txt
+incredibles,shrek,animated,awards,annies,spongebob
+
+Article: 332p.txt
+posters,labour,fagin,anti,tory,poster
+
+Article: 332s.txt
+stade,stade toulousain,biarritz,bourgoin,harinordoquy,valbon
+
+Article: 332t.txt
+music,creative,ipod,apple,digital,mcguire
+
+Article: 333b.txt
+marsh,insurance,spitzer,sec,transactions,inquiry
+
+Article: 333e.txt
+bond,actor,scott,bets,odds,william hill
+
+Article: 333p.txt
+kilroy,silk,ukip,veritas,erewash,party
+
+Article: 333s.txt
+dragons,blues,ospreys,williams,scarlets,shanklin
+
+Article: 333t.txt
+printer,cartridges,ink,hp,inkjet,cartridge
+
+Article: 334b.txt
+contrack,iraq,reconstruction,contract,pco,transportation
+
+Article: 334e.txt
+festival,wham,singer,features,michael,life
+
+Article: 334p.txt
+issue,parties,asylum,seekers,immigration,election
+
+Article: 334s.txt
+leicester,bath,sale sharks,stevens,robinson,sale
+
+Article: 334t.txt
+fbi,mails,attachment,virus,recipients,bureau
+
+Article: 335b.txt
+japan airlines,boeing,a350,japan,airlines,airbus
+
+Article: 335e.txt
+de niro,film,oscar,box office,top,and seek
+
+Article: 335p.txt
+kennedy,labour,election,general election,tories,liberal
+
+Article: 335s.txt
+bortolami,edinburgh,contest,italy,thoroughly,six nations
+
+Article: 335t.txt
+mobile,hsdpa,networks,speeds,siemens,data
+
+Article: 336b.txt
+villalba,merrill,ms,tribunal,merrill lynch,lynch
+
+Article: 336e.txt
+festival,sundance,prize,war,film,jury
+
+Article: 336p.txt
+labour,blair,party,mr,fired up,lane
+
+Article: 336s.txt
+corry,robinson,england,team,lansdowne road,tremendous
+
+Article: 336t.txt
+mac,mini,mac mini,media centre,computer,pcs
+
+Article: 337b.txt
+hardie,asbestos,victims,compensation,james hardie,company
+
+Article: 337e.txt
+dicaprio,hughes,aviator,film,actor,award
+
+Article: 337p.txt
+tps,calls,marketing,party,voting,parties
+
+Article: 337s.txt
+scrum,jones,gethin,france,backs,forwards
+
+Article: 337t.txt
+yahoo,search,google,weiner,portal,dot
+
+Article: 338b.txt
+yili,milk,chinese,embezzlement,dairy,police
+
+Article: 338e.txt
+japan,yen,japanese,films,howl,box office
+
+Article: 338p.txt
+lib,cable,kennedy,dems,lib dems,debt
+
+Article: 338s.txt
+robinson,game,stevens,moody,antibiotics,kicker
+
+Article: 338t.txt
+music,mobile,phones,gartner,milanesi,mobiles
+
+Article: 339b.txt
+deccan,air deccan,air,india,airlines,cheaper
+
+Article: 339e.txt
+reeves,hollywood,actor,star,matrix,keanu
+
+Article: 339p.txt
+homes,lib,housing,dems,lib dems,tenants
+
+Article: 339s.txt
+fiji,zealand,new zealand,france,samoa,africa
+
+Article: 339t.txt
+skype,users,hotspots,calls,broadreach,net
+
+Article: 340b.txt
+oil,china,venezuela,chavez,dependence,east
+
+Article: 340e.txt
+fockers,meet,precinct,box office,and seek,comedy
+
+Article: 340p.txt
+women,kennedy,childcare,maternity,party,pay
+
+Article: 340s.txt
+castaignede,laporte,france,ireland,wales,michalak
+
+Article: 340t.txt
+domain,dyer,idn,fake,browsers,scammers
+
+Article: 341b.txt
+jarvis,tube,stake,ferrovial,lines,tube lines
+
+Article: 341e.txt
+festival,lewis,berlin,film,berlinale camera,day
+
+Article: 341p.txt
+blair,party,kennedy,trust,wasted,lib
+
+Article: 341s.txt
+charvis,wales,luscombe,mcbryde,hal,parker
+
+Article: 341t.txt
+gadgets,essentials,gadget,list,stuff,vaughan
+
+Article: 342b.txt
+china,honda,eu,pirated,copyright,intellectual property
+
+Article: 342e.txt
+bach,rifkin,composer,cantata,fragment,dinosaur
+
+Article: 342p.txt
+brown,labour,new labour,mr,blair,election
+
+Article: 342s.txt
+robinson,england,captain,dawson,squad,six nations
+
+Article: 342t.txt
+directive,parliament,patent,council of ministers,ec,council
+
+Article: 343b.txt
+air jamaica,jamaica,air,airline,omar davies,gordon stewart
+
+Article: 343e.txt
+broadway,applegate,charity,sweet charity,show,sweet
+
+Article: 343p.txt
+cunningham,labour,agriculture,blair,cabinet,stand
+
+Article: 343s.txt
+rfu,kaplan,robinson,england,coach,irb
+
+Article: 343t.txt
+uwb,intel,technology,fi,ultra,usb
+
+Article: 344b.txt
+dollar,currency,gaymard,euro,g7,finishing
+
+Article: 344e.txt
+museum,charles,digney,genius loves company,studio,loves
+
+Article: 344p.txt
+tax,election,tory,labour,spending,party
+
+Article: 344s.txt
+stade,stade toulousain,biarritz,bourgoin,harinordoquy,valbon
+
+Article: 344t.txt
+virgin,virgin radio,radio,station,cridland,sydus
+
+Article: 345b.txt
+thailand,tourism,sri lanka,lanka,sri,tragedy
+
+Article: 345e.txt
+britney,spears,pictures,us weekly,tabloids,false
+
+Article: 345p.txt
+age,voting,candidacy,lowering,leslie,elected
+
+Article: 345s.txt
+wilkinson,england,match,andrew,irresponsible,injury
+
+Article: 345t.txt
+umd,psp,movies,sony psp,sony,beeks
+
+Article: 346b.txt
+insurance,exposure,insurers,reinsurance,swiss re,damage
+
+Article: 346e.txt
+list,abba,craymer,millionaires,music,fortune
+
+Article: 346p.txt
+campaign,labour,declared,election,slogan,polling
+
+Article: 346s.txt
+referees,daily mail,kaplan,daily,rugby,jonathan kaplan
+
+Article: 346t.txt
+fi,rsa,security,found,networks,frankfurt
+
+Article: 347b.txt
+india,pakistan,trade,exports,peace,fiscal
+
+Article: 347e.txt
+bond,casino royale,royale,casino,film,campbell
+
+Article: 347p.txt
+police,policing,constables,authorities,elected,plans
+
+Article: 347s.txt
+moore,robinson,captain,wilkinson,pack,retirement
+
+Article: 347t.txt
+cebit,show,motorola,mobiles,digital,wood
+
+Article: 348b.txt
+us airways,airways,comair,flight,airline,chaos
+
+Article: 348e.txt
+festival,films,european,berlin,cinema,runs
+
+Article: 348p.txt
+holme,lord holme,broadcasters,televised,lord,debate
+
+Article: 348s.txt
+owen,thomas,captain,england italy,massive,squad
+
+Article: 348t.txt
+xbox,allard,console,game,interface,microsoft
+
+Article: 349b.txt
+lg,lg card,creditors,lg group,card,group
+
+Article: 349e.txt
+khan,visa,norway,bollywood,actress,bombay
+
+Article: 349p.txt
+brown,labour,gordon brown,gordon,chancellor,taxes
+
+Article: 349s.txt
+kirwan,england,defeats,side,italy,kaplan
+
+Article: 349t.txt
+iptv,broadband,tv,bt,burke,content
+
+Article: 350b.txt
+dollar,euro,trading,traders,low,grant wilson
+
+Article: 350e.txt
+ray,dvd,film,oscar,box office,best
+
+Article: 350p.txt
+election,labour,brown,speech,chancellor,mr
+
+Article: 350s.txt
+treviso,calvisano,bergamasco,viadana,dal maso,dal
+
+Article: 350t.txt
+voip,wanadoo,broadband,calls,service,templeton
+
+Article: 351b.txt
+oil,winter,bottlenecks,mild,barrel,crude
+
+Article: 351e.txt
+women,workforce,industry,film,men,uk film
+
+Article: 351p.txt
+blair,fox,labour,lord ashcroft,tory,mr
+
+Article: 351s.txt
+leicester,bath,sale sharks,gloucester,tait,wasps
+
+Article: 351t.txt
+ds,nintendo,psp,handheld,games,owners
+
+Article: 352b.txt
+reliance,buy,mukesh,ambani,feud,back
+
+Article: 352e.txt
+vera drake,drake,vera,film,bafta,jolin
+
+Article: 352p.txt
+teachers,blair,education,sailing,children,parents
+
+Article: 352s.txt
+wood,ireland,cardiff,grand slam,slam,england
+
+Article: 352t.txt
+bt,bt retail,services,service,retail,finger
+
+Article: 353b.txt
+aid,tourism,imf,damage,asia,region
+
+Article: 353e.txt
+roundabout,magic,magic roundabout,thunderbirds,children,nostalgia
+
+Article: 353p.txt
+blair,election,pain,prime,campaign,public
+
+Article: 353s.txt
+ligaments,flanker,scott,gray,jon,scotland
+
+Article: 353t.txt
+tremor,tremors,mouse,computer,hand,uk national tremor foundation
+
+Article: 354b.txt
+economic,thailand,provinces,tourism,tourist,stock
+
+Article: 354e.txt
+actress,film,carpet,british,red,dicaprio
+
+Article: 354p.txt
+budget,election,contain,chancellor,brown,measures
+
+Article: 354s.txt
+sullivan,ireland,season,overworked,triple crown,side
+
+Article: 354t.txt
+dod,software,warez,internet,customs,boyd
+
+Article: 355b.txt
+economy,israeli,imports,exports,quieter,demand
+
+Article: 355e.txt
+best,film,award,eternal sunshine,spotless mind,sunshine
+
+Article: 355p.txt
+lib,cable,brown,tax,mr,lib dem
+
+Article: 355s.txt
+wales,williams,ruddock,davies,flanker,pugh
+
+Article: 355t.txt
+apple,bloggers,ruling,apple insider,kleinberg,journalists
+
+Article: 356b.txt
+ministry,korea,the ministry,economy,construction,south korea
+
+Article: 356e.txt
+davis,ossie,funeral,activist,lee,burt reynolds
+
+Article: 356p.txt
+chancellor,brown,mr,stability,optimistic,blair
+
+Article: 356s.txt
+dawson,wales,wasps,gloucester,injury,against wales
+
+Article: 356t.txt
+robots,hitachi,robot,honda,emiew,pal
+
+Article: 357b.txt
+osi,kazakhstan,soros,kazakh,close,shut
+
+Article: 357e.txt
+best,vera,bafta,vera drake,drake,film
+
+Article: 357p.txt
+raynsford,local,government,council,tax,retiring
+
+Article: 357s.txt
+helens,st helens,wales,saints,st,rugby
+
+Article: 357t.txt
+bot,nets,machines,hijacked,honeynet,networks
+
+Article: 358b.txt
+yukos,deutsche,deutsche bank,bankruptcy,yuganskneftegas,bank
+
+Article: 358e.txt
+theatre,fox,swansea,palmer,palace,edward
+
+Article: 358p.txt
+eu,rebate,budget,straw,foreign,european council
+
+Article: 358s.txt
+rugby,saint,england,andre,players,club
+
+Article: 358t.txt
+trusted,hardware,computing,unlocked,security,users
+
+Article: 359b.txt
+fiat,gm,auto,car,marchionne,agreement
+
+Article: 359e.txt
+shark tale,shark,tale,shrek,dvd,video
+
+Article: 359p.txt
+balls,brown,election,stability,digby,chancellor
+
+Article: 359s.txt
+ruddock,yapp,wales,john,blues,scrummaging
+
+Article: 359t.txt
+gizmondo,gadget,nintendo,gaming,sale,device
+
+Article: 360b.txt
+copper,cochilco,cartagena,chile,chilean,production
+
+Article: 360e.txt
+lopez,film,premiere,dancing,dance,charity
+
+Article: 360p.txt
+election,brown,voters,budget,tax,economy
+
+Article: 360s.txt
+rugby,robinson,audit,english,players,professional
+
+Article: 360t.txt
+hd,hdtv,tv,oudendijk,displays,display
+
+Article: 361b.txt
+sales,consumers,conference board,consumer,economic,confidence
+
+Article: 361e.txt
+spurlock,mcdonald,award,documentary,leaflet,size me
+
+Article: 361p.txt
+stamp,duty,threshold,tax,economy,buyers
+
+Article: 361s.txt
+hodges,scarlets,gallacher,stradey,squad,season
+
+Article: 361t.txt
+digital,broadband,tv,jupiter,net,speeds
+
+Article: 362b.txt
+plastic,apacs,cards,debit,carroll,mrs carroll
+
+Article: 362e.txt
+schrader,film,skarsgard,harlin,merrin,prequel
+
+Article: 362p.txt
+dodgy,election,brown,tax,chancellor,labour
+
+Article: 362s.txt
+students,wales students,rugby,welsh students,welsh,representative
+
+Article: 362t.txt
+spam,mail,spammers,junk,clearswift,users
+
+Article: 363b.txt
+pipeline,oil,macedonia,albanian,ambo,balkan
+
+Article: 363e.txt
+box office,nominees,box,titanic,office,vested
+
+Article: 363p.txt
+tax,kennedy,income,households,council,revaluation
+
+Article: 363s.txt
+calder,sru,mackay,rugby,scotland,scottish
+
+Article: 363t.txt
+psp,gaming,sony,device,handheld,gadget
+
+Article: 364b.txt
+ssl,condom,ssl international,durex,reckitt benckiser,scholl
+
+Article: 364e.txt
+comedy,constantine,hitch,smith,reeves,movie
+
+Article: 364p.txt
+dodgy,election,chancellor,budget,brown,howard
+
+Article: 364s.txt
+ulster,ireland,irish,finished,cup,rugby
+
+Article: 364t.txt
+podcasts,podcasting,curry,radio,podcasters,podcast
+
+Article: 365b.txt
+nasdaq,shares,stock,fortunes,sale,boom
+
+Article: 365e.txt
+csi,episode,tarantino,mendelsohn,quentin,direct
+
+Article: 365p.txt
+jobs,civil,civil service,department,cut,brown
+
+Article: 365s.txt
+scottish,rugby,days,national,williams,situation
+
+Article: 365t.txt
+austria,telekom austria,telekom,programmes,watch,engerwitzdorf
+
+Article: 366b.txt
+wmc,xstrata,copper,grant samuel,uranium,bid
+
+Article: 366e.txt
+buhecha,bollywood,dvds,inlay,legitimate,bpi
+
+Article: 366p.txt
+hiv,aids,vaccine,brown,treatments,g8
+
+Article: 366s.txt
+lomu,kidney,operation,all blacks,blacks,lot
+
+Article: 366t.txt
+carpenter,net,ipv6,ietf,dr,standards
+
+Article: 367b.txt
+sunderland,murray,bskyb,club,stake,shares
+
+Article: 367e.txt
+karger,strauss,oscars,goodridge,rock,awards
+
+Article: 367p.txt
+britain,howard,government,blair,kemp,tackle
+
+Article: 367s.txt
+johnson,lomu,england,jonah,testimonial,cup
+
+Article: 367t.txt
+trainor,power,laptop,laptops,battery,energy
+
+Article: 368b.txt
+pbgc,fer,pension,congress,premiums,pensions
+
+Article: 368e.txt
+foxx,film,jamie,swank,jamie foxx,actress
+
+Article: 368p.txt
+lords,law lords,law,ruling,government,judgement
+
+Article: 368s.txt
+springboks,six nations,nations,autumn,victory,australia
+
+Article: 368t.txt
+attacks,arbor,traffic,net,pollard,network
+
+Article: 369b.txt
+interbrew,inbev,sun interbrew,sun,alfa,brewer
+
+Article: 369e.txt
+arnold,wasp,film,short,films,mckendry
+
+Article: 369p.txt
+baa,stansted,expansion,white paper,heathrow,stop stansted expansion
+
+Article: 369s.txt
+sevens,burger,award,south,rugby,south african
+
+Article: 369t.txt
+microsoft,explorer,user,passport,hailstorm,windows
+
+Article: 370b.txt
+ism,index,manufacturing,survey,december,industrial
+
+Article: 370e.txt
+best,awards,screenplay,sideways,oscars,moreno
+
+Article: 370p.txt
+roma,czechs,asylum,roma czechs,prague,immigration
+
+Article: 370s.txt
+robinson,australia,league,great britain,rugby,aussies
+
+Article: 370t.txt
+file,sharing,betamax,supreme court,peer,supreme
+
+Article: 371b.txt
+singapore,growth,quarter,economy,fourth,electronics
+
+Article: 371e.txt
+film,arnold,film council,oscar,wasp,uk film council
+
+Article: 371p.txt
+ethnic,howard,minorities,communities,tory,discrimination
+
+Article: 371s.txt
+zealand,new zealand,wales,blacks,all blacks,new
+
+Article: 371t.txt
+dtt,tnt,terrestrial,tv,digital,channels
+
+Article: 372b.txt
+ariary,franc,colonial,currency,malagasy,madagascar
+
+Article: 372e.txt
+best,eastwood,aviator,ray,scorsese,baby
+
+Article: 372p.txt
+registration,electoral,election,observers,general election,fraud
+
+Article: 372s.txt
+wru,season,spectator,rugby,broadcasters,interest
+
+Article: 372t.txt
+text,mda,mobiles,mobile,texting,total
+
+Article: 373b.txt
+rossignol,quiksilver,skis,rossignol shares,suitors,sporting
+
+Article: 373e.txt
+british,arnold,oscar,leigh,nominees,nomination
+
+Article: 373p.txt
+rebate,eu,uk,european,straw,chirac
+
+Article: 373s.txt
+england,captain,wilkinson,cup,lawrence,rugby
+
+Article: 373t.txt
+employers,data,system,software,privacy,bridgehead software
+
+Article: 374b.txt
+dollar,euro,chicago,berlusconi,trading,schroeder
+
+Article: 374e.txt
+lee,spider,stan,superhero,franchise,paramount
+
+Article: 374p.txt
+prosper,burden,letwin,tax,failure,party
+
+Article: 374s.txt
+japan,rugby,host,tokumasu,hong,hong kong
+
+Article: 374t.txt
+commodore,brand,computers,tulip computers,1980s,tulip
+
+Article: 375b.txt
+lg,lg card,card,creditors,korea,firm
+
+Article: 375e.txt
+jackson,kite,ms,boy,bashir,prosecution
+
+Article: 375p.txt
+tax,brown,mr,budget,election,child
+
+Article: 375s.txt
+dallaglio,england,career,captain,cup,rugby
+
+Article: 375t.txt
+cab,gadgets,cabs,phones,laptops,losing
+
+Article: 376b.txt
+euro,dollar,yen,currency,berlusconi,strength
+
+Article: 376e.txt
+vinci,demons,da,da vinci code,angels,vatican
+
+Article: 376p.txt
+budget,hain,confidentiality,commons,speaker,breach
+
+Article: 376s.txt
+wasps,leicester,goode,tigers,gisbergen,van gisbergen
+
+Article: 376t.txt
+mobile,fi,office,trains,pocket,train
+
+Article: 377b.txt
+vw,plant,andhra pradesh,india,factory,indian
+
+Article: 377e.txt
+nominees,prize,directors,eastwood,scorsese,film
+
+Article: 377p.txt
+casinos,gambling,tricks,uk,casino,jowell
+
+Article: 377s.txt
+gara,ireland,montgomery,minute,penalty,south africans
+
+Article: 377t.txt
+spyware,california,programs,software,computer,fines
+
+Article: 378b.txt
+gas,turkmenistan,turkmen,ukraine,price,supplies
+
+Article: 378e.txt
+halloween,carpenter,hill,escape,escape from new york,debra hill
+
+Article: 378p.txt
+orders,legislation,home secretary,house,blair,arrest
+
+Article: 378s.txt
+easterby,schubert,humphreys,surgener,bowe,leamy
+
+Article: 378t.txt
+mobile,tv,dmb,broadcasting,korea,channels
+
+Article: 379b.txt
+reliance,anil,mukesh,ipc,ambani,petrochemicals
+
+Article: 379e.txt
+tarantino,film,jason,new line,franchise,horror
+
+Article: 379p.txt
+sir ian,terror,election,attack,ian,presidency
+
+Article: 379s.txt
+munster,ulster,leinster,mccormack,campbell,connacht
+
+Article: 379t.txt
+gadget,gadgets,mobile,apple,list,laptop
+
+Article: 380b.txt
+india,routes,air,air sahara,sahara,jet airways
+
+Article: 380e.txt
+boogeyman,film,box office,and seek,box,top
+
+Article: 380p.txt
+wage,minimum,increase,pay,wages,jobs
+
+Article: 380s.txt
+contepomi,gara,ireland,argentina,minutes,penalty
+
+Article: 380t.txt
+sun,grid,computing,hour,sun grid,capacity
+
+Article: 381b.txt
+crude,barrel,oil,weather,winter,milder
+
+Article: 381e.txt
+florida,morrison,university,doors,florida state university,state university
+
+Article: 381p.txt
+ban,countryfile,supported,adults,mori,support
+
+Article: 381s.txt
+fiji,england,sevens,final,dubai,plate
+
+Article: 381t.txt
+eduvision,school,herren,satellite,students,project
+
+Article: 382b.txt
+age,retirement,employers,discrimination,workers,age concern
+
+Article: 382e.txt
+star wars,pg,wars,lucas,rating,film
+
+Article: 382p.txt
+tb,health,checks,people,tested,britain
+
+Article: 382s.txt
+barbarians,blacks,all blacks,baa,zealand,new zealand
+
+Article: 382t.txt
+flynn,rules,mobile,ringtones,firms,content
+
+Article: 383b.txt
+fed,rates,markets,dollar,aggressive,meeting
+
+Article: 383e.txt
+vabres,sir alan,parker,film,alan,sir
+
+Article: 383p.txt
+eu,constitution,straw,referendum,propaganda,ancram
+
+Article: 383s.txt
+squad,dawson,robinson,tait,beattie,tindall
+
+Article: 383t.txt
+music,mobile,babinet,mobiles,pc,phone
+
+Article: 384b.txt
+sales,next,wolfson,christmas,openings,store
+
+Article: 384e.txt
+robots,movie,mel,christ,cinemas,weekend
+
+Article: 384p.txt
+clarke,terror,powers,human rights,suspects,human
+
+Article: 384s.txt
+borders,steinmetz,larkin,ulster,warnock,cunningham
+
+Article: 384t.txt
+china,media,foreign,joint,broadcasting,chinese
+
+Article: 385b.txt
+tate,lyle,forbes,ferguson,venerable,sugar
+
+Article: 385e.txt
+jackson,film,hobbit,remake,lord of,kong
+
+Article: 385p.txt
+immunisation,gavi,brown,extra,gates foundation,iff
+
+Article: 385s.txt
+woodward,lions,rugby,international rugby,dallaglio,players
+
+Article: 385t.txt
+beckham,trojan,virus,infected,malicious,program
+
+Article: 386b.txt
+krispy,kreme,restate,agreements,leases,firm
+
+Article: 386e.txt
+wonder woman,wonder,buffy,character,woman,film
+
+Article: 386p.txt
+embargo,arms,straw,china,taiwan,chinese
+
+Article: 386s.txt
+tour,media,lions,campbell,woodward,new zealand
+
+Article: 386t.txt
+dating,video,mobile,services,adult,sms
+
+Article: 387b.txt
+jobless,german,weise,hartz,hartz iv,stagnation
+
+Article: 387p.txt
+spending,tax,chancellor,brown,cut,labour
+
+Article: 387s.txt
+woodward,lions,rugby,international rugby,dallaglio,players
+
+Article: 387t.txt
+domains,icann,domain,names,travel,approval
+
+Article: 388b.txt
+land,farms,property,national land institute,rangel,marquez
+
+Article: 388p.txt
+care,social,people,elderly,ladyman,payments
+
+Article: 388s.txt
+wilkinson,internationals,injury,edinburgh,england,newcastle
+
+Article: 388t.txt
+camera,phones,cameras,mobiles,images,megapixels
+
+Article: 389b.txt
+egypt,alexandria,banque,bank,banks,public
+
+Article: 389p.txt
+rules,pact,brown,treasury,stability,treasury select committee
+
+Article: 389s.txt
+dallaglio,lions,tour,clive,trip,place
+
+Article: 389t.txt
+multimedia,celltick,messages,mms,phones,mobile
+
+Article: 390b.txt
+gun,firearms,california,sales,guns,violations
+
+Article: 390p.txt
+access,fathers,court,parenting,mediation,disputes
+
+Article: 390s.txt
+dawson,wasps,enough,contract,new deal,matt
+
+Article: 390t.txt
+optinrealbig,richter,microsoft,spam,chapter,legal
+
+Article: 391b.txt
+yukos,russian,bankruptcy,yuganskneftegas,deutsche bank,court
+
+Article: 391p.txt
+referendum,cost,constitution,leslie,election,revealed
+
+Article: 391s.txt
+healey,tigers,heineken,leicester,wasps,heineken cup
+
+Article: 391t.txt
+p2p,networks,file,content,sharing,music
+
+Article: 392b.txt
+lse,deutsche boerse,boerse,deutsche,euronext,clearstream
+
+Article: 392p.txt
+tanzania,brown,relief,debt,uk,chancellor
+
+Article: 392s.txt
+bath,williams,ospreys,scrum,welsh,region
+
+Article: 392t.txt
+broadband,demos,online,net,report,fast
+
+Article: 393b.txt
+laura ashley,laura,ashley,clothing,company,ms
+
+Article: 393p.txt
+archives,parliament,divorce,addison,records,pages
+
+Article: 393s.txt
+bath,tindall,brownsword,alli,mike,club
+
+Article: 393t.txt
+search,results,engines,searchers,pew,users
+
+Article: 394b.txt
+us airways,airways,staff,carrier,bankruptcy,contract
+
+Article: 394p.txt
+election,impetuosity,labour,policy,incomes,foreign
+
+Article: 394s.txt
+tindall,england,specialist,surgery,centre,foot
+
+Article: 394t.txt
+iptv,telcos,graczyk,viewer,cable,tv
+
+Article: 395b.txt
+delta,fares,airline,discount,fare,survival
+
+Article: 395p.txt
+campaign,labour,howard,tax,phoney,cuts
+
+Article: 395s.txt
+welsh,wales,half,paris,rugby,1970s
+
+Article: 395t.txt
+cebit,convergence,player,processor,battery,creative
+
+Article: 396b.txt
+icbc,china,loans,profits,yuan,bank
+
+Article: 396p.txt
+labour,commissioner,party,calls,tps,marketing
+
+Article: 396s.txt
+williams,win,scotland,luscombe,injury,wales
+
+Article: 396t.txt
+games,mobile,spore,ea,creatures,artists
+
+Article: 397b.txt
+reports,social,reporting,corporate,sustainability,supply
+
+Article: 397p.txt
+blunkett,election,ready,weekend,call,monday
+
+Article: 397s.txt
+sculthorpe,helens,st helens,rugby,st,farrell
+
+Article: 397t.txt
+bt,dialler,premium,dial,icstis,diallers
+
+Article: 398b.txt
+mendis,sri lanka,lanka,sri,tsunami,rupees
+
+Article: 398p.txt
+local,dems,lib dems,davey,lib,results
+
+Article: 398s.txt
+farrell,gamble,wells,leicester,andy farrell,tigers
+
+Article: 398t.txt
+spam,mails,software,security,goods,bsa
+
+Article: 399b.txt
+oil,ongc,yukos,westwood,india,yugansk
+
+Article: 399p.txt
+flight,candidate,mr,conservative,local,tanguay
+
+Article: 399s.txt
+lindsay,farrell,wigan,rugby,saga,rugby union
+
+Article: 399t.txt
+patent,directive,patents,software,legal,european
+
+Article: 400b.txt
+monsanto,bribe,sec,indonesia,official,justice
+
+Article: 400p.txt
+lord callaghan,lord,labour,pm,jim,cardiff
+
+Article: 400s.txt
+sevens,england,samoa,pool,hong kong,hong
+
+Article: 400t.txt
+yoran,cyber,division,security,homeland,security division
+
+Article: 401b.txt
+marsh,spitzer,stearns,insurance,clients,bids
+
+Article: 401p.txt
+parliament,election,blair,easter,marr,april
+
+Article: 401s.txt
+henson,kick,wales,tait,game,england
+
+Article: 401t.txt
+gaming,everquest,online,hours,games,playing
+
+Article: 402b.txt
+fed,inflation,rise,growth,rate,flexibility
+
+Article: 402p.txt
+milburn,brown,labour,role,mr,chancellor
+
+Article: 402s.txt
+aru,rugby,match,zealand,new zealand,charity
+
+Article: 403b.txt
+directors,worldcom,wsj,former,settling,pay
+
+Article: 403p.txt
+trust,politicians,poll,voters,public,issue
+
+Article: 403s.txt
+grand slam,slam,wales,grand,england,ireland
+
+Article: 404b.txt
+continental,costs,wage,filing,airlines,conditions
+
+Article: 404p.txt
+kruger,tory,services,destruction,conservative,creative
+
+Article: 404s.txt
+ireland,england,lewsey,hodgson,corner,referee
+
+Article: 405b.txt
+halifax,prices,house,price,bank,fall
+
+Article: 405p.txt
+abortion,howard,issue,catholic,cardinal,mr
+
+Article: 405s.txt
+gara,ireland,england,hodgson,kick,goal
+
+Article: 406b.txt
+sales,store,stores,retailers,rise,december
+
+Article: 406p.txt
+brown,mr,blair,chancellor,labour,westminster
+
+Article: 406s.txt
+robinson,cueto,referee,josh lewsey,josh,lewsey
+
+Article: 407b.txt
+atr,deccan,air deccan,air,planes,aircraft
+
+Article: 407p.txt
+boateng,paul,high commissioner,appointment,appointed,south
+
+Article: 407s.txt
+paterson,de marigny,scotland,italy,penalty,lamont
+
+Article: 408b.txt
+naamsa,south africa,south,africa,demand,sales
+
+Article: 408p.txt
+howard,mongrel,hain,mr,party,michael howard
+
+Article: 408s.txt
+bortolami,edinburgh,contest,italy,thoroughly,six nations
+
+Article: 409b.txt
+chartered,standard,kfb,bank,korea,south
+
+Article: 409p.txt
+delegates,tory,labour,conference,bill,welcome
+
+Article: 409s.txt
+lions,england,ireland,reports,thing,dublin
+
+Article: 410b.txt
+mercedes,sales,daimlerchrysler,smart,cordes,chrysler
+
+Article: 410p.txt
+sayeed,mp,privileges committee,bedfordshire,mr,privileges
+
+Article: 410s.txt
+edinburgh,glasgow,taylor,saracens,scotland,northampton
+
+Article: 411b.txt
+tsunami,rupiah,jakarta,repayments,bakrie,paris club
+
+Article: 411p.txt
+labour,howard,party,tories,election,poster
+
+Article: 411s.txt
+operation,vickery,david barnes,barnes,forearm,arm
+
+Article: 412b.txt
+khatami,budget,revenues,iran,parliament,oil
+
+Article: 412p.txt
+registered,mayors,registration,voters,register,vote
+
+Article: 412s.txt
+dominici,france,injury,wales,grand slam,slam
+
+Article: 413b.txt
+ec,deficit,germany,eu,france,commission
+
+Article: 413p.txt
+sainsbury,lord sainsbury,donation,party,labour,gift
+
+Article: 413s.txt
+llewellyn,wales,neath,six nations,ospreys,nations
+
+Article: 414b.txt
+enron,settlement,directors,collapse,deal,former
+
+Article: 414p.txt
+blair,prime,labour,voters,minister,doctors
+
+Article: 414s.txt
+barkley,yachvili,france,hodgson,england,penalty
+
+Article: 415b.txt
+odpm,house,prices,inflation,november,annual
+
+Article: 415p.txt
+wyatt,campaign,labour,brown,mr,prominent
+
+Article: 415s.txt
+kickers,england,goal,wilkinson,jonny,toughness
+
+Article: 416b.txt
+growth,steady,economy,job,showing,jobs
+
+Article: 416p.txt
+liberal,lib,lib dem,dem,liberal democrats,democrats
+
+Article: 416s.txt
+williams,henson,wales,shane williams,jones,italy
+
+Article: 417b.txt
+barclays,wells fargo,wells,banking,shares,pence
+
+Article: 417p.txt
+party,kennedy,lib,vote,election,labour
+
+Article: 417s.txt
+maggs,horgan,connor,ireland,wing,duffy
+
+Article: 418b.txt
+lvmh,falic,lacroix,christian lacroix,falic group,christian
+
+Article: 418s.txt
+connor,horgan,easterby,scotland,hamstring,wing
+
+Article: 419b.txt
+shell,reserves,boynton,vijver,van,firm
+
+Article: 419s.txt
+tindall,tour,rugby special,mike tindall,bath,lions
+
+Article: 420b.txt
+oil,iran,india,ongc,gas,iranian
+
+Article: 420s.txt
+connor,breakdown,leamy,denis,wasps,impression
+
+Article: 421b.txt
+lse,deutsche boerse,boerse,deutsche,euronext,bid
+
+Article: 421s.txt
+rusedski,henman,match,serve,point,volley
+
+Article: 422b.txt
+fox,news corp,corp,fox entertainment,shares,news
+
+Article: 422s.txt
+safin,kiefer,lopez,dubai,shock,beaten
+
+Article: 423b.txt
+israel,fischer,bank,sharon,nomination,mr
+
+Article: 423s.txt
+ferrero,difficult,pox,chicken,rib,juan carlos
+
+Article: 424b.txt
+airbus,mandelson,eu,aircraft,boeing,subsidies
+
+Article: 424s.txt
+roddick,saulnier,haas,final,overcame,san jose
+
+Article: 425b.txt
+nortel,revised,restatement,audit,figures,executives
+
+Article: 425s.txt
+federer,ljubicic,roger,dubai,match,seed
+
+Article: 426b.txt
+yukos,gref,state,gdp,kommersant,ineffective
+
+Article: 426s.txt
+ginepri,wildcard,young,american,san jose,qualifier
+
+Article: 427b.txt
+china,yuan,tax,xie,deficit,trade
+
+Article: 427s.txt
+agassi,melzer,seed,andre,beat,spadea
+
+Article: 428b.txt
+kse,pakistan,lakhani,market,karachi,tensions
+
+Article: 428s.txt
+federer,ferrero,dubai,points,match,seed
+
+Article: 429b.txt
+trade,imports,deficit,commerce department,shortfall,us trade
+
+Article: 429s.txt
+calleri,seed,montanes,novak,argentine,nadal
+
+Article: 430b.txt
+hybrid,suv,car,market,jd power,hybrids
+
+Article: 430s.txt
+davenport,myskina,hantuchova,williams,martinez,champion
+
+Article: 431b.txt
+mitsubishi,psa,peugeot,shareholder,japanese,talks
+
+Article: 431s.txt
+bates,sherwood,parmar,squad,bogdanovic,tie
+
+Article: 432b.txt
+ba,saudi,flights,saudi arabia,arabia,suspend
+
+Article: 432s.txt
+women,wimbledon,davenport,phillips,prize,equal
+
+Article: 433b.txt
+cairn,rajasthan,gas,cairn energy,gammell,area
+
+Article: 433s.txt
+federer,ljubicic,roger,dubai,match,seed
+
+Article: 434b.txt
+adb,poverty,sri,maldives,sri lanka,lanka
+
+Article: 434s.txt
+henman,rain,seed,umpire,ljubicic,frustrating
+
+Article: 435b.txt
+fosters,southcorp,winemaker,takeover,wine,brewer
+
+Article: 435s.txt
+mirza,kuznetsova,hantuchova,round,sfar,crowd
+
+Article: 436b.txt
+ecb,euro,inflation,growth,eurozone,rate
+
+Article: 436s.txt
+davenport,myskina,hantuchova,williams,martinez,champion
+
+Article: 437b.txt
+tobacco,china,bat,factories,cigarette,smoking
+
+Article: 437s.txt
+murray,bogdanovic,henman,andy ram,jonathan erlich,israel
+
+Article: 438b.txt
+rates,manufacturing,bank,consumer,economy,interest
+
+Article: 438s.txt
+women,wimbledon,davenport,phillips,prize,equal
+
+Article: 439b.txt
+ecb,economy,domestic,exports,euro,german
+
+Article: 439s.txt
+farina elia,mirza,venus,kuznetsova,martinez,great
+
+Article: 440b.txt
+deficit,dollar,exports,imports,trade,commerce department
+
+Article: 440s.txt
+vinci,martinez,beat,veteran,italian,australian
+
+Article: 441b.txt
+exports,eu,goods,uk,imports,export
+
+Article: 441s.txt
+rankings,safin,serena,davenport,world,hewitt
+
+Article: 442b.txt
+lesotho,textile,quotas,workers,macaefa,rand
+
+Article: 442s.txt
+hingis,miss,body,thaliand,german marlene weingartner,filderstadt
+
+Article: 443b.txt
+kraft,advertising,children,food,products,label
+
+Article: 443s.txt
+clijsters,february,kim,wrist,belgian,return
+
+Article: 444b.txt
+khodorkovsky,yukos,yuganskneftegaz,nevzlin,mr,oil
+
+Article: 444s.txt
+seed,dent,felt,johansson,hewitt,broke
+
+Article: 445b.txt
+aer lingus,airline,walsh,conflict,trio,seamus
+
+Article: 445s.txt
+serena,venus,sister,grand slam,slam,williams
+
+Article: 446b.txt
+eu,customs,trade,wto,us trade,representative
+
+Article: 446s.txt
+seed,davenport,raymond,vaidisova,sprem,beat
+
+Article: 447b.txt
+news corp,corp,chernin,games,video,companies
+
+Article: 447s.txt
+mirza,round,williams,indian,tennis,vaidyanathan
+
+Article: 448b.txt
+ahold,foods,suppliers,charges,foodservice,food
+
+Article: 448s.txt
+kuznetsova,belgian,itf,eerdekens,tennis,ephedrine
+
+Article: 449b.txt
+prozac,lilly,adverts,eli,fda,facts
+
+Article: 449s.txt
+bailey,murray,bogdanovic,cup,henman,davis cup
+
+Article: 450b.txt
+sales,retail,december,spending,dealers,consumer
+
+Article: 450s.txt
+hewitt,minar,australian,sydney,australian open,final
+
+Article: 451b.txt
+foster,southcorp,offer,wine,brands,winemaker
+
+Article: 451s.txt
+moya,atp,relief,tournament,prize,donate
+
+Article: 452b.txt
+bell,mcdonald,charlie,mr,cantalupo,restaurants
+
+Article: 452s.txt
+rochus,coria,auckland,seed,czech jan hernych,jose acasuso
+
+Article: 453b.txt
+output,production,industrial,increase,economist,factory
+
+Article: 453s.txt
+johansson,dent,serve,adelaide,australian,second
+
+Article: 454b.txt
+boerse,deutsche boerse,deutsche,tci,lse,shareholder
+
+Article: 454s.txt
+hingis,pattaya,thailand,le matin,ankles,martina hingis
+
+Article: 455b.txt
+qantas,dixon,overseas,staff,australian,profitable
+
+Article: 455s.txt
+slovakia,hantuchova,dulko,hrbaty,nervous,dominik
+
+Article: 456b.txt
+gazprom,nuclear,atomstroieksport,russian,yuganskneftegas,oil
+
+Article: 456s.txt
+dementieva,williams,errors,hong,hong kong,kong
+
+Article: 457b.txt
+pact,schroeder,eu,countries,rules,eurozone
+
+Article: 457s.txt
+sydney,philippoussis,dechy,women,injury,begins
+
+Article: 458b.txt
+parmalat,tanzi,collapse,prosecutors,parma,money
+
+Article: 458s.txt
+hewitt,seed,dent,adelaide,slams,felt
+
+Article: 459b.txt
+deloitte,slowdown,economy,economic,growth,bootle
+
+Article: 459s.txt
+federer,seed,costa,davydenko,qatar,lopez
+
+Article: 460b.txt
+peoplesoft,oracle,takeover,staff,ellison,company
+
+Article: 460s.txt
+davenport,slams,grand slams,knee,retirement,grand
+
+Article: 461b.txt
+parking,wang,car,beijing,fees,indoor
+
+Article: 461s.txt
+rusedski,supplements,atp,greg,available,australian open
+
+Article: 462b.txt
+gm,earnings,gmac,losses,share,profits
+
+Article: 462s.txt
+navratilova,doubles,mixed,tennis,singles,events
+
+Article: 463b.txt
+districts,beige book,fed,beige,estate,higher
+
+Article: 463s.txt
+monfils,gaudio,prodigy,champion,round,gaudio french
+
+Article: 464b.txt
+ebay,wall street,items,wall,cents,street
+
+Article: 464s.txt
+connors,coaches,lta,manga,la manga,jimmy
+
+Article: 465b.txt
+ebbers,worldcom,fraud,trial,telecoms,executives
+
+Article: 465s.txt
+comeback,dementieva,belgium,belgian,second,open
+
+Article: 466b.txt
+amr,southwest,airline,fuel,loss,airlines
+
+Article: 466s.txt
+moya,roddick,davis cup,rubber,clay,spain
+
+Article: 467b.txt
+gm,profits,losses,quarter,general motors,motors
+
+Article: 467s.txt
+capriati,champion,melbourne,australian open,australian,melbourne jennifer capriati
+
+Article: 468b.txt
+alitalia,aid,state,commission,italian,eu
+
+Article: 468s.txt
+henman,match,massu,gaudio,nalbandian,pretty
+
+Article: 469b.txt
+turkey,imf,agreement,reforms,funding,inflation
+
+Article: 469s.txt
+roddick,moya,davis cup,clay,davis,spain
+
+Article: 470b.txt
+savoy,the savoy,fairmont,strand,alwaleed,simpson
+
+Article: 470s.txt
+roddick,moya,davis cup,clay,davis,spain
+
+Article: 471b.txt
+sri,sri lanka,lanka,imf,kumaratunga,reconstruction
+
+Article: 471s.txt
+capriati,australian open,australian,champion,open,advanta
+
+Article: 472b.txt
+projects,yangtze,china,dam,mw,environmental
+
+Article: 472s.txt
+bryan,doubles,ferrero,spain,carlos,bryans
+
+Article: 473b.txt
+standard trust,united bank,trust,nigerian,bank,standard
+
+Article: 473s.txt
+federer,tennis,interviews,hewitt,nice,grand
+
+Article: 474b.txt
+virgin blue,virgin,blue,profits,jetstar,airline
+
+Article: 474s.txt
+mauresmo,zvonareva,sharapova,kuznetsova,williams,davenport
+
+Article: 475b.txt
+vivendi,amf,bond,bonds,cegetel,privileged
+
+Article: 475s.txt
+agassi,hip,australian open,australian,feeling,open
+
+Article: 476b.txt
+ncci,insurance,saudi,arabia,saudi arabia,shares
+
+Article: 476s.txt
+russia,open,argentina,round,seed,henman
+
+Article: 477b.txt
+slavery,jp morgan,jp,slaves,morgan,canal
+
+Article: 477s.txt
+moya,champion,garcia,agassi,lopez,open
+
+Article: 478b.txt
+egypt,egyptian,israeli,zones,israel,protocol
+
+Article: 478s.txt
+clijsters,wrist,open,dokic,season,kim
+
+Article: 479b.txt
+ford,unit,quarter,fourth,vehicle,models
+
+Article: 479s.txt
+clijsters,wrist,open,dokic,season,kim
+
+Article: 480b.txt
+wipro,rupees,india,profit,azim premji,vivek paul
+
+Article: 480s.txt
+hrbaty,agassi,ancic,safin,set,ankle
+
+Article: 481b.txt
+retailers,retail,figures,ons,christmas,sales
+
+Article: 481s.txt
+roddick,gilbert,coach,brad gilbert,brad,andy
+
+Article: 482b.txt
+hiv,aids,prevalence,wef,business,report
+
+Article: 482s.txt
+goldfine,roddick,coach,assistant,fit,andy
+
+Article: 483b.txt
+eurodisney,euros,attraction,cents,disney,restructuring
+
+Article: 483s.txt
+hewitt,nalbandian,set,sets,match,hanging
+
+Article: 484b.txt
+datamonitor,british,report,income,teenagers,girls
+
+Article: 484s.txt
+sydney,tournament,moya,davis cup,final,open
+
+Article: 485b.txt
+holcim,cement,acc,aggregate,market,concrete
+
+Article: 485s.txt
+koubek,austrian,substance,davis cup,banned,miss
+
+Article: 486b.txt
+anil,reliance,ambani,ipcl,reliance group,board
+
+Article: 486s.txt
+hewitt,roddick,australian,crowd,final,tie
+
+Article: 487b.txt
+davos,leaders,wef,gates,president,forum
+
+Article: 487s.txt
+surface,faster,hewitt,lleyton,melbourne,pollard
+
+Article: 488b.txt
+deficit,cbo,budget,military,fiscal,operations
+
+Article: 488s.txt
+davenport,williams,title,game,kept,looked
+
+Article: 489b.txt
+bafin,citigroup,prosecutor,criminal,manipulation,investigation
+
+Article: 489s.txt
+safin,win,grand,open,wimbledon,sampras
+
+Article: 490b.txt
+unemployment,ibge,rate,december,brazil,lula
+
+Article: 490s.txt
+safin,win,grand,open,wimbledon,sampras
+
+Article: 491b.txt
+paris club,indonesia,debt,paris,bakrie,club
+
+Article: 491s.txt
+roddick,nadal,serve,break,point,game
+
+Article: 492b.txt
+parmalat,bank,grant thornton,italian,auditor,auditors
+
+Article: 492s.txt
+henman,open,event,australian open,kooyong,australian
+
+Article: 493b.txt
+china,economy,growth,impetus,industrial,faster
+
+Article: 493s.txt
+connors,tennis,lta,everybody,tennis association,andrew murray
+
+Article: 494b.txt
+firms,listings,sec,act,donaldson,foreign
+
+Article: 494s.txt
+roche,federer,coach,sportsman,australian,agassi
+
+Article: 495b.txt
+countries,respondents,poll,pipa,economy,pessimistic
+
+Article: 495s.txt
+federer,open,wimbledon,davenport,us open,french open
+
+Article: 496b.txt
+dollar,euro,currency,asia,ease,tacit
+
+Article: 496s.txt
+australian,hopman cup,hopman,injury,australian open,philippoussis
+
+Article: 497b.txt
+elgindy,royer,fbi,fraud,mr,mauskopf
+
+Article: 497s.txt
+slovakia,hopman cup,hopman,matches,wessels,shaughnessy
+
+Article: 498b.txt
+china,bank,banks,construction,loans,lending
+
+Article: 498s.txt
+rochus,dent,johansson,jaslyn,adelaide,argentine juan ignacio chela
+
+Article: 499b.txt
+cao,china,aviation,oil,singapore,creditors
+
+Article: 499s.txt
+moya,davis cup,davis,cup,seville,spain
+
+Article: 500b.txt
+eurotunnel,airlines,tunnel,channel,banks,euros
+
+Article: 500s.txt
+davis cup,henman,davis,cup,bates,britain
+
+Article: 501b.txt
+aguas,aguas argentinas,water,suez,argentine,argentina
+
+Article: 501s.txt
+ivanovic,czink,hungarian,wta,round,ana ivanovic
+
+Article: 502b.txt
+algeria,gas,dinars,butane,watan,el watan
+
+Article: 502s.txt
+dechy,kuznetsova,belgian,doping,eerdekens,victims
+
+Article: 503b.txt
+maruti,rupees,india,profit,car,utility
+
+Article: 503s.txt
+safin,finals,tennis,titles,confidence,lleyton
+
+Article: 504b.txt
+davos,forum,aids,blair,campaigner,globalisation
+
+Article: 504s.txt
+martinez,groenefeld,match,title,good,feels
+
+Article: 505b.txt
+china,trade,yen,japan,surplus,cow
+
+Article: 505s.txt
+soderling,stepanek,milan,seed,set,final
+
+Article: 506b.txt
+botin,santander,spain,trial,corcostegui,bank
+
+Article: 506s.txt
+rusedski,marseille,seed,rib,ivo karlovic,frenchman gilles simon
+
+Article: 507b.txt
+ons,recession,rubinsohn,uk,quarter,economist
+
+Article: 507s.txt
+agassi,roddick,dane,carlsen,san jose,san
+
+Article: 508b.txt
+scrushy,healthsouth,conspiracy,richard scrushy,fraud,statements
+
+Article: 508s.txt
+rain,nadal,almagro,starace,match,unseeded
+
+Article: 509b.txt
+pwc,survey,companies,bosses,dipiazza,pricewaterhousecoopers
+
+Article: 509s.txt
+agassi,melzer,seed,san jose,andre,san
+
+Article: 510b.txt
+lacroix,falic group,falic,lvmh,label,couture
+
+Article: 510s.txt
+mirza,bondarenko,indian,hyderabad open,crowd,hyderabad
+
+Article: 511s.txt
+saulnier,roddick,haas,seed,final,lot
+
