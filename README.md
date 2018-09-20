@@ -1,3 +1,17 @@
+Description of files:
+
+(1) BBC_doc2Vec.py : The main KNN algorithm used for computations. To run properly, the user must pass three flags or four flags. The first is a number representing the k value to evaluate. The second is either -k or -m. -k will plot KNN and -m will show the k-means of the model. The third, -y will retrain the document, -n will not. if the user would like to see the accuracy evaluation, the fourth flag is -a.
+
+	Ex: python BBC_doc2Vec.py 35 -k -n
+	Ex: python BBC_doc2Vec.py 35 -k -n -a	
+	Ex: python BBC_doc2Vec.py 35 -m -y
+
+(2) tfidf.py will extract keywords based on the model. Just run from command line along with the number of keywords you would to get.
+
+	Ex: python tfidf.py 10
+
+(3) stemmed_text.py: this simply stems the abc documents into one file, “bbc_stemmed.txt”.
+
 Doc2Vec + KNN Text Classification
 
 **1. Abstract**
