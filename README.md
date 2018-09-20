@@ -1,4 +1,4 @@
-Description of files:
+**Description of files:**
 
 (1) BBC_doc2Vec.py : The main KNN algorithm used for computations. To run properly, the user must pass three flags or four flags. The first is a number representing the k value to evaluate. The second is either -k or -m. -k will plot KNN and -m will show the k-means of the model. The third, -y will retrain the document, -n will not. if the user would like to see the accuracy evaluation, the fourth flag is -a.
 
@@ -30,7 +30,7 @@ Unfortunately, word vectors do not capture the specific context of the word at t
 
 
    
-   Figure 1: The above graph shows several word embedded vectors found in &quot;The Tale of Two Cities.&quot; Each individual word has its own individual vector direction. When averaged together, we get one singular vector representative of the entire document. In this case, that average vector resembles &quot;Class Struggle.&quot; 3
+  	Figure 1: The above graph shows several word embedded vectors found in &quot;The Tale of Two Cities.&quot; Each individual word has its own individual vector direction. When averaged together, we get one singular vector representative of the entire document. In this case, that average vector resembles &quot;Class Struggle.&quot; 3
 
 
 
